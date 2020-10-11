@@ -73,7 +73,7 @@ async function parseLangLinks(lang, pathToWrite, pathToRead) {
             }
 
             j++;
-            if(j === 1000) {
+            if(j === 100) {
                 break;
             }
             
