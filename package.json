@@ -1,0 +1,23 @@
+{
+  "name": "dictionarytranslator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "elasticsearch": "^16.7.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SimonaGlom/DictionaryTranslator.git"
+  },
+  "author": "Simona Glombíková",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SimonaGlom/DictionaryTranslator/issues"
+  },
+  "homepage": "https://github.com/SimonaGlom/DictionaryTranslator#readme"
+}
