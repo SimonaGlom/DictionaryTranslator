@@ -37,36 +37,46 @@ async function parseLangLinks(lang, pathToWrite, pathToRead) {
     const readable = fs.createReadStream(pathToRead, { encoding: 'utf8' });
     const file = fs.createWriteStream(pathToWrite)
     let  result = {'words': []} 
-    //{{}{}{}}
+    //{{ []}}
 
     const regex = new RegExp(`\\(([0-9]+),(.*?),(.*?),(.*?)\\)`, 'g');
     let regexIntoLangLinks = new RegExp(`\(id,\'(sk|en|de)\',\'(.*?)\'\)`, 'g');
 
     for await (const chunk of readable) {
         let m;
+        let j = 0;
         while ((m = regex.exec(chunk)) !== null) {
-            let objects = []
+            let objects = {}
+            let trans = []
             if (m.index === regex.lastIndex) {
                 regex.lastIndex++;
             }
 
-            objects.push({
-                'id': m[1],
-                'lang': lang,
-                'value': m[3]
-            })
+            //tit.split(":")[0]
 
             if (dataEN[+m[1]]) {
-                objects.push(dataEN[+m[1]])
+                trans.push(dataEN[+m[1]])
             }
 
             if (dataDE[+m[1]]) {
-                objects.push(dataDE[+m[1]])
+                trans.push(dataDE[+m[1]])
             }
 
-            result.words = [...result.words, ...objects]
+            objects['id']  = m[1]
+            objects['lang'] = lang
+            objects['value'] = m[3].split("'")[1].split("_").join(' ')
+            objects['translations'] = trans
+            
 
-            break;
+            if(trans.length !== 0) {
+                result.words = [...result.words, objects]
+            }
+
+            j++;
+            if(j === 1000) {
+                break;
+            }
+            
         }
         break;
     }

@@ -1,0 +1,6920 @@
+{
+ "words": [
+  {
+   "id": "1",
+   "lang": "sk",
+   "value": "Hlavná stránka",
+   "translations": [
+    {
+     "id": "1",
+     "lang": "en",
+     "value": ""
+    },
+    {
+     "id": "1",
+     "lang": "de",
+     "value": "(1180) Rita"
+    }
+   ]
+  },
+  {
+   "id": "61",
+   "lang": "sk",
+   "value": "Brion VIBBER",
+   "translations": [
+    {
+     "id": "61",
+     "lang": "en",
+     "value": "Category:Squares in Hungary"
+    }
+   ]
+  },
+  {
+   "id": "603",
+   "lang": "sk",
+   "value": "Esperanto",
+   "translations": [
+    {
+     "id": "603",
+     "lang": "en",
+     "value": "Esperanto"
+    },
+    {
+     "id": "603",
+     "lang": "de",
+     "value": "Esperanto"
+    }
+   ]
+  },
+  {
+   "id": "604",
+   "lang": "sk",
+   "value": "ArnoLagrange",
+   "translations": [
+    {
+     "id": "604",
+     "lang": "en",
+     "value": "User:ArnoLagrange"
+    },
+    {
+     "id": "604",
+     "lang": "de",
+     "value": "Benutzer:ArnoLagrange"
+    }
+   ]
+  },
+  {
+   "id": "605",
+   "lang": "sk",
+   "value": "Matematika",
+   "translations": [
+    {
+     "id": "605",
+     "lang": "en",
+     "value": "Mathematics"
+    },
+    {
+     "id": "605",
+     "lang": "de",
+     "value": "Mathematik"
+    }
+   ]
+  },
+  {
+   "id": "606",
+   "lang": "sk",
+   "value": "Isaac Newton",
+   "translations": [
+    {
+     "id": "606",
+     "lang": "en",
+     "value": "Laryngeal theory"
+    },
+    {
+     "id": "606",
+     "lang": "de",
+     "value": "Isaac Newton"
+    }
+   ]
+  },
+  {
+   "id": "607",
+   "lang": "sk",
+   "value": "Panoramix",
+   "translations": [
+    {
+     "id": "607",
+     "lang": "en",
+     "value": "User:Panoramix"
+    },
+    {
+     "id": "607",
+     "lang": "de",
+     "value": "Benutzer:Panoramix"
+    }
+   ]
+  },
+  {
+   "id": "608",
+   "lang": "sk",
+   "value": "Francúzsko",
+   "translations": [
+    {
+     "id": "608",
+     "lang": "en",
+     "value": "France"
+    },
+    {
+     "id": "608",
+     "lang": "de",
+     "value": "Frankreich"
+    }
+   ]
+  },
+  {
+   "id": "609",
+   "lang": "sk",
+   "value": "Literatúra",
+   "translations": [
+    {
+     "id": "609",
+     "lang": "en",
+     "value": "Literature"
+    },
+    {
+     "id": "609",
+     "lang": "de",
+     "value": "Literatur"
+    }
+   ]
+  },
+  {
+   "id": "610",
+   "lang": "sk",
+   "value": "Václav Havel",
+   "translations": [
+    {
+     "id": "610",
+     "lang": "en",
+     "value": "Václav Havel"
+    },
+    {
+     "id": "610",
+     "lang": "de",
+     "value": "Václav Havel"
+    }
+   ]
+  },
+  {
+   "id": "611",
+   "lang": "sk",
+   "value": "Fyzika",
+   "translations": [
+    {
+     "id": "611",
+     "lang": "en",
+     "value": "Physics"
+    },
+    {
+     "id": "611",
+     "lang": "de",
+     "value": "Physik"
+    }
+   ]
+  },
+  {
+   "id": "612",
+   "lang": "sk",
+   "value": "Zoznam štátov",
+   "translations": [
+    {
+     "id": "612",
+     "lang": "en",
+     "value": "List of sovereign states"
+    },
+    {
+     "id": "612",
+     "lang": "de",
+     "value": "Liste der Staaten der Erde"
+    }
+   ]
+  },
+  {
+   "id": "613",
+   "lang": "sk",
+   "value": "Trnava",
+   "translations": [
+    {
+     "id": "613",
+     "lang": "en",
+     "value": "Trnava"
+    },
+    {
+     "id": "613",
+     "lang": "de",
+     "value": "Trnava"
+    }
+   ]
+  },
+  {
+   "id": "618",
+   "lang": "sk",
+   "value": "Kaviareň",
+   "translations": [
+    {
+     "id": "618",
+     "lang": "en",
+     "value": "Wikipedia:Village pump"
+    },
+    {
+     "id": "618",
+     "lang": "de",
+     "value": "Wikipedia:Projektdiskussion"
+    }
+   ]
+  },
+  {
+   "id": "619",
+   "lang": "sk",
+   "value": "Ako upravovať stránku",
+   "translations": [
+    {
+     "id": "619",
+     "lang": "en",
+     "value": "Help:Editing"
+    },
+    {
+     "id": "619",
+     "lang": "de",
+     "value": "Hilfe:Seite bearbeiten"
+    }
+   ]
+  },
+  {
+   "id": "649",
+   "lang": "sk",
+   "value": "Vitajte vo Wikipédii",
+   "translations": [
+    {
+     "id": "649",
+     "lang": "en",
+     "value": "Wikipedia:Welcoming committee/Welcome to Wikipedia"
+    },
+    {
+     "id": "649",
+     "lang": "de",
+     "value": "Wikipedia:Starthilfe"
+    }
+   ]
+  },
+  {
+   "id": "651",
+   "lang": "sk",
+   "value": "Wikitext",
+   "translations": [
+    {
+     "id": "651",
+     "lang": "en",
+     "value": "Help:Wikitext"
+    },
+    {
+     "id": "651",
+     "lang": "de",
+     "value": "Hilfe:Textgestaltung"
+    }
+   ]
+  },
+  {
+   "id": "652",
+   "lang": "sk",
+   "value": "Ako vytvoriť nový článok",
+   "translations": [
+    {
+     "id": "652",
+     "lang": "en",
+     "value": "Wikipedia:How to create a page"
+    },
+    {
+     "id": "652",
+     "lang": "de",
+     "value": "Hilfe:Neuen Artikel anlegen"
+    }
+   ]
+  },
+  {
+   "id": "654",
+   "lang": "sk",
+   "value": "Romanm",
+   "translations": [
+    {
+     "id": "654",
+     "lang": "en",
+     "value": "User:Romanm"
+    },
+    {
+     "id": "654",
+     "lang": "de",
+     "value": "Benutzer:Romanm"
+    }
+   ]
+  },
+  {
+   "id": "655",
+   "lang": "sk",
+   "value": "Najlepší článok",
+   "translations": [
+    {
+     "id": "655",
+     "lang": "en",
+     "value": "Wikipedia:The perfect article"
+    },
+    {
+     "id": "655",
+     "lang": "de",
+     "value": "Wikipedia:Wie gute Artikel aussehen"
+    }
+   ]
+  },
+  {
+   "id": "676",
+   "lang": "sk",
+   "value": "Aktuality",
+   "translations": [
+    {
+     "id": "676",
+     "lang": "en",
+     "value": "Wikipedia:Goings-on"
+    }
+   ]
+  },
+  {
+   "id": "677",
+   "lang": "sk",
+   "value": "Buďte smelí pri úprave stránok",
+   "translations": [
+    {
+     "id": "677",
+     "lang": "en",
+     "value": "Wikipedia:Be bold"
+    },
+    {
+     "id": "677",
+     "lang": "de",
+     "value": "Wikipedia:Sei mutig"
+    }
+   ]
+  },
+  {
+   "id": "678",
+   "lang": "sk",
+   "value": "Ako napísať výborný článok",
+   "translations": [
+    {
+     "id": "678",
+     "lang": "en",
+     "value": "Wikipedia:How to write a great article"
+    },
+    {
+     "id": "678",
+     "lang": "de",
+     "value": "Wikipedia:Wie schreibe ich gute Artikel"
+    }
+   ]
+  },
+  {
+   "id": "680",
+   "lang": "sk",
+   "value": "Názov článku",
+   "translations": [
+    {
+     "id": "680",
+     "lang": "en",
+     "value": "Wikipedia:Article titles"
+    },
+    {
+     "id": "680",
+     "lang": "de",
+     "value": "Wikipedia:Namenskonventionen"
+    }
+   ]
+  },
+  {
+   "id": "682",
+   "lang": "sk",
+   "value": "Hudba",
+   "translations": [
+    {
+     "id": "682",
+     "lang": "en",
+     "value": "Music"
+    },
+    {
+     "id": "682",
+     "lang": "de",
+     "value": "Musik"
+    }
+   ]
+  },
+  {
+   "id": "685",
+   "lang": "sk",
+   "value": "Borislav",
+   "translations": [
+    {
+     "id": "685",
+     "lang": "en",
+     "value": "User:Borislav"
+    },
+    {
+     "id": "685",
+     "lang": "de",
+     "value": "Benutzer:Borislav"
+    }
+   ]
+  },
+  {
+   "id": "686",
+   "lang": "sk",
+   "value": "Slovensko",
+   "translations": [
+    {
+     "id": "686",
+     "lang": "en",
+     "value": "Slovakia"
+    },
+    {
+     "id": "686",
+     "lang": "de",
+     "value": "Slowakei"
+    }
+   ]
+  },
+  {
+   "id": "687",
+   "lang": "sk",
+   "value": "Maďarsko",
+   "translations": [
+    {
+     "id": "687",
+     "lang": "en",
+     "value": "Hungary"
+    },
+    {
+     "id": "687",
+     "lang": "de",
+     "value": "Ungarn"
+    }
+   ]
+  },
+  {
+   "id": "688",
+   "lang": "sk",
+   "value": "Nemecko",
+   "translations": [
+    {
+     "id": "688",
+     "lang": "en",
+     "value": "Germany"
+    },
+    {
+     "id": "688",
+     "lang": "de",
+     "value": "Deutschland"
+    }
+   ]
+  },
+  {
+   "id": "693",
+   "lang": "sk",
+   "value": "Zhaoway~skwiki",
+   "translations": [
+    {
+     "id": "693",
+     "lang": "en",
+     "value": "User:Zhaoway"
+    },
+    {
+     "id": "693",
+     "lang": "de",
+     "value": "Benutzer:Zhaoway"
+    }
+   ]
+  },
+  {
+   "id": "694",
+   "lang": "sk",
+   "value": "Taekkyon",
+   "translations": [
+    {
+     "id": "694",
+     "lang": "en",
+     "value": "Taekkyeon"
+    },
+    {
+     "id": "694",
+     "lang": "de",
+     "value": "Taekgyeon"
+    }
+   ]
+  },
+  {
+   "id": "695",
+   "lang": "sk",
+   "value": "RTFM",
+   "translations": [
+    {
+     "id": "695",
+     "lang": "en",
+     "value": "RTFM"
+    },
+    {
+     "id": "695",
+     "lang": "de",
+     "value": "Liste von Abkürzungen (Netzjargon)#R"
+    }
+   ]
+  },
+  {
+   "id": "697",
+   "lang": "sk",
+   "value": "Voľby",
+   "translations": [
+    {
+     "id": "697",
+     "lang": "en",
+     "value": "Wikipedia:Elections for the Board of Trustees of the Wikimedia Foundation"
+    }
+   ]
+  },
+  {
+   "id": "701",
+   "lang": "sk",
+   "value": "Československá socialistická republika",
+   "translations": [
+    {
+     "id": "701",
+     "lang": "en",
+     "value": "Czechoslovak Socialist Republic"
+    }
+   ]
+  },
+  {
+   "id": "702",
+   "lang": "sk",
+   "value": "Bratislava",
+   "translations": [
+    {
+     "id": "702",
+     "lang": "en",
+     "value": "Bratislava"
+    },
+    {
+     "id": "702",
+     "lang": "de",
+     "value": "Bratislava"
+    }
+   ]
+  },
+  {
+   "id": "703",
+   "lang": "sk",
+   "value": "Česko",
+   "translations": [
+    {
+     "id": "703",
+     "lang": "en",
+     "value": "Czech Republic"
+    },
+    {
+     "id": "703",
+     "lang": "de",
+     "value": "Tschechien"
+    }
+   ]
+  },
+  {
+   "id": "704",
+   "lang": "sk",
+   "value": "Astronómia",
+   "translations": [
+    {
+     "id": "704",
+     "lang": "en",
+     "value": "Astronomy"
+    },
+    {
+     "id": "704",
+     "lang": "de",
+     "value": "Astronomie"
+    }
+   ]
+  },
+  {
+   "id": "886",
+   "lang": "sk",
+   "value": "Internet",
+   "translations": [
+    {
+     "id": "886",
+     "lang": "en",
+     "value": "Internet"
+    },
+    {
+     "id": "886",
+     "lang": "de",
+     "value": "Internet"
+    }
+   ]
+  },
+  {
+   "id": "888",
+   "lang": "sk",
+   "value": "Blog",
+   "translations": [
+    {
+     "id": "888",
+     "lang": "en",
+     "value": "Blog"
+    },
+    {
+     "id": "888",
+     "lang": "de",
+     "value": "Blog"
+    }
+   ]
+  },
+  {
+   "id": "889",
+   "lang": "sk",
+   "value": "Tobias Conradi~skwiki",
+   "translations": [
+    {
+     "id": "889",
+     "lang": "en",
+     "value": "User:Tobias Conradi"
+    },
+    {
+     "id": "889",
+     "lang": "de",
+     "value": "Benutzer:Tobias Conradi"
+    }
+   ]
+  },
+  {
+   "id": "890",
+   "lang": "sk",
+   "value": "Egypt",
+   "translations": [
+    {
+     "id": "890",
+     "lang": "en",
+     "value": "Egypt"
+    },
+    {
+     "id": "890",
+     "lang": "de",
+     "value": "Ägypten"
+    }
+   ]
+  },
+  {
+   "id": "891",
+   "lang": "sk",
+   "value": "História",
+   "translations": [
+    {
+     "id": "891",
+     "lang": "en",
+     "value": "Historia"
+    },
+    {
+     "id": "891",
+     "lang": "de",
+     "value": "Historia"
+    }
+   ]
+  },
+  {
+   "id": "896",
+   "lang": "sk",
+   "value": "Filozofia",
+   "translations": [
+    {
+     "id": "896",
+     "lang": "en",
+     "value": "Philosophy"
+    },
+    {
+     "id": "896",
+     "lang": "de",
+     "value": "Philosophie"
+    }
+   ]
+  },
+  {
+   "id": "898",
+   "lang": "sk",
+   "value": "Gdarin",
+   "translations": [
+    {
+     "id": "898",
+     "lang": "en",
+     "value": "User:Gdarin"
+    },
+    {
+     "id": "898",
+     "lang": "de",
+     "value": "Benutzer:Gdarin"
+    }
+   ]
+  },
+  {
+   "id": "900",
+   "lang": "sk",
+   "value": "Liso",
+   "translations": [
+    {
+     "id": "900",
+     "lang": "en",
+     "value": "User:Liso"
+    }
+   ]
+  },
+  {
+   "id": "901",
+   "lang": "sk",
+   "value": "Wikipediáni",
+   "translations": [
+    {
+     "id": "901",
+     "lang": "en",
+     "value": "Wikipedia:Wikipedians"
+    },
+    {
+     "id": "901",
+     "lang": "de",
+     "value": "Wikipedia:Wikipedianer"
+    }
+   ]
+  },
+  {
+   "id": "902",
+   "lang": "sk",
+   "value": "Biológia",
+   "translations": [
+    {
+     "id": "902",
+     "lang": "en",
+     "value": "Biology"
+    },
+    {
+     "id": "902",
+     "lang": "de",
+     "value": "Biologie"
+    }
+   ]
+  },
+  {
+   "id": "904",
+   "lang": "sk",
+   "value": "Alan Turing",
+   "translations": [
+    {
+     "id": "904",
+     "lang": "en",
+     "value": "Alan Turing"
+    },
+    {
+     "id": "904",
+     "lang": "de",
+     "value": "Alan Turing"
+    }
+   ]
+  },
+  {
+   "id": "905",
+   "lang": "sk",
+   "value": "Turingov test",
+   "translations": [
+    {
+     "id": "905",
+     "lang": "en",
+     "value": "Turing test"
+    },
+    {
+     "id": "905",
+     "lang": "de",
+     "value": "Turing-Test"
+    }
+   ]
+  },
+  {
+   "id": "906",
+   "lang": "sk",
+   "value": "Rómovia",
+   "translations": [
+    {
+     "id": "906",
+     "lang": "en",
+     "value": "Romani people"
+    },
+    {
+     "id": "906",
+     "lang": "de",
+     "value": "Roma"
+    }
+   ]
+  },
+  {
+   "id": "908",
+   "lang": "sk",
+   "value": "George Boole",
+   "translations": [
+    {
+     "id": "908",
+     "lang": "en",
+     "value": "George Boole"
+    },
+    {
+     "id": "908",
+     "lang": "de",
+     "value": "George Boole"
+    }
+   ]
+  },
+  {
+   "id": "910",
+   "lang": "sk",
+   "value": "Tibetská kniha mŕtvych",
+   "translations": [
+    {
+     "id": "910",
+     "lang": "en",
+     "value": "Bardo Thodol"
+    },
+    {
+     "id": "910",
+     "lang": "de",
+     "value": "Bardo Thödröl"
+    }
+   ]
+  },
+  {
+   "id": "911",
+   "lang": "sk",
+   "value": "Tibet (historické územie)",
+   "translations": [
+    {
+     "id": "911",
+     "lang": "en",
+     "value": "Tibet"
+    },
+    {
+     "id": "911",
+     "lang": "de",
+     "value": "Tibet"
+    }
+   ]
+  },
+  {
+   "id": "912",
+   "lang": "sk",
+   "value": "Padmasambhava",
+   "translations": [
+    {
+     "id": "912",
+     "lang": "en",
+     "value": "Padmasambhava"
+    },
+    {
+     "id": "912",
+     "lang": "de",
+     "value": "Padmasambhava"
+    }
+   ]
+  },
+  {
+   "id": "913",
+   "lang": "sk",
+   "value": "Tantrizmus",
+   "translations": [
+    {
+     "id": "913",
+     "lang": "en",
+     "value": "Tantra"
+    },
+    {
+     "id": "913",
+     "lang": "de",
+     "value": "Tantra"
+    }
+   ]
+  },
+  {
+   "id": "914",
+   "lang": "sk",
+   "value": "Bönizmus",
+   "translations": [
+    {
+     "id": "914",
+     "lang": "en",
+     "value": "Bon"
+    },
+    {
+     "id": "914",
+     "lang": "de",
+     "value": "Bön"
+    }
+   ]
+  },
+  {
+   "id": "915",
+   "lang": "sk",
+   "value": "Enzo Paci",
+   "translations": [
+    {
+     "id": "915",
+     "lang": "de",
+     "value": "Enzo Paci"
+    }
+   ]
+  },
+  {
+   "id": "916",
+   "lang": "sk",
+   "value": "Willard Van Orman Quine",
+   "translations": [
+    {
+     "id": "916",
+     "lang": "en",
+     "value": "Willard Van Orman Quine"
+    },
+    {
+     "id": "916",
+     "lang": "de",
+     "value": "Willard Van Orman Quine"
+    }
+   ]
+  },
+  {
+   "id": "917",
+   "lang": "sk",
+   "value": "Fenomenológia",
+   "translations": [
+    {
+     "id": "917",
+     "lang": "en",
+     "value": "Phenomenology (philosophy)"
+    },
+    {
+     "id": "917",
+     "lang": "de",
+     "value": "Phänomenologie"
+    }
+   ]
+  },
+  {
+   "id": "918",
+   "lang": "sk",
+   "value": "Vadžrajána",
+   "translations": [
+    {
+     "id": "918",
+     "lang": "en",
+     "value": "Vajrayana"
+    },
+    {
+     "id": "918",
+     "lang": "de",
+     "value": "Vajrayana"
+    }
+   ]
+  },
+  {
+   "id": "919",
+   "lang": "sk",
+   "value": "Tomáš Akvinský",
+   "translations": [
+    {
+     "id": "919",
+     "lang": "en",
+     "value": "Thomas Aquinas"
+    },
+    {
+     "id": "919",
+     "lang": "de",
+     "value": "Thomas von Aquin"
+    }
+   ]
+  },
+  {
+   "id": "923",
+   "lang": "sk",
+   "value": "Aristoteles",
+   "translations": [
+    {
+     "id": "923",
+     "lang": "en",
+     "value": "Aristotle"
+    },
+    {
+     "id": "923",
+     "lang": "de",
+     "value": "Aristoteles"
+    }
+   ]
+  },
+  {
+   "id": "924",
+   "lang": "sk",
+   "value": "Ontológia",
+   "translations": [
+    {
+     "id": "924",
+     "lang": "en",
+     "value": "Ontology"
+    },
+    {
+     "id": "924",
+     "lang": "de",
+     "value": "Ontologie"
+    }
+   ]
+  },
+  {
+   "id": "925",
+   "lang": "sk",
+   "value": "Augustín z Hippa",
+   "translations": [
+    {
+     "id": "925",
+     "lang": "en",
+     "value": "Augustine of Hippo"
+    },
+    {
+     "id": "925",
+     "lang": "de",
+     "value": "Augustinus von Hippo"
+    }
+   ]
+  },
+  {
+   "id": "926",
+   "lang": "sk",
+   "value": "Filozof",
+   "translations": [
+    {
+     "id": "926",
+     "lang": "en",
+     "value": "Philosopher"
+    },
+    {
+     "id": "926",
+     "lang": "de",
+     "value": "Philosoph"
+    }
+   ]
+  },
+  {
+   "id": "928",
+   "lang": "sk",
+   "value": "Novoplatonizmus",
+   "translations": [
+    {
+     "id": "928",
+     "lang": "en",
+     "value": "Neoplatonism"
+    },
+    {
+     "id": "928",
+     "lang": "de",
+     "value": "Neuplatonismus"
+    }
+   ]
+  },
+  {
+   "id": "929",
+   "lang": "sk",
+   "value": "Plótinos",
+   "translations": [
+    {
+     "id": "929",
+     "lang": "en",
+     "value": "Plotinus"
+    },
+    {
+     "id": "929",
+     "lang": "de",
+     "value": "Plotin"
+    }
+   ]
+  },
+  {
+   "id": "931",
+   "lang": "sk",
+   "value": "Francis Bacon",
+   "translations": [
+    {
+     "id": "931",
+     "lang": "en",
+     "value": "Francis Bacon"
+    },
+    {
+     "id": "931",
+     "lang": "de",
+     "value": "Francis Bacon"
+    }
+   ]
+  },
+  {
+   "id": "935",
+   "lang": "sk",
+   "value": "Epikouros zo Samu",
+   "translations": [
+    {
+     "id": "935",
+     "lang": "en",
+     "value": "Epicurus"
+    },
+    {
+     "id": "935",
+     "lang": "de",
+     "value": "Epikur"
+    }
+   ]
+  },
+  {
+   "id": "936",
+   "lang": "sk",
+   "value": "Démokritos z Abdér",
+   "translations": [
+    {
+     "id": "936",
+     "lang": "en",
+     "value": "Democritus"
+    },
+    {
+     "id": "936",
+     "lang": "de",
+     "value": "Demokrit"
+    }
+   ]
+  },
+  {
+   "id": "937",
+   "lang": "sk",
+   "value": "Sokrates",
+   "translations": [
+    {
+     "id": "937",
+     "lang": "en",
+     "value": "Socrates"
+    },
+    {
+     "id": "937",
+     "lang": "de",
+     "value": "Sokrates"
+    }
+   ]
+  },
+  {
+   "id": "939",
+   "lang": "sk",
+   "value": "Anselm z Canterbury",
+   "translations": [
+    {
+     "id": "939",
+     "lang": "en",
+     "value": "Anselm of Canterbury"
+    },
+    {
+     "id": "939",
+     "lang": "de",
+     "value": "Anselm von Canterbury"
+    }
+   ]
+  },
+  {
+   "id": "941",
+   "lang": "sk",
+   "value": "Gottfried Wilhelm Leibniz",
+   "translations": [
+    {
+     "id": "941",
+     "lang": "en",
+     "value": "Gottfried Wilhelm Leibniz"
+    },
+    {
+     "id": "941",
+     "lang": "de",
+     "value": "Gottfried Wilhelm Leibniz"
+    }
+   ]
+  },
+  {
+   "id": "942",
+   "lang": "sk",
+   "value": "Immanuel Kant",
+   "translations": [
+    {
+     "id": "942",
+     "lang": "en",
+     "value": "Immanuel Kant"
+    },
+    {
+     "id": "942",
+     "lang": "de",
+     "value": "Immanuel Kant"
+    }
+   ]
+  },
+  {
+   "id": "944",
+   "lang": "sk",
+   "value": "Čad",
+   "translations": [
+    {
+     "id": "944",
+     "lang": "en",
+     "value": "Chad"
+    },
+    {
+     "id": "944",
+     "lang": "de",
+     "value": "Tschad"
+    }
+   ]
+  },
+  {
+   "id": "945",
+   "lang": "sk",
+   "value": "Krakov",
+   "translations": [
+    {
+     "id": "945",
+     "lang": "en",
+     "value": "Kraków"
+    },
+    {
+     "id": "945",
+     "lang": "de",
+     "value": "Krakau"
+    }
+   ]
+  },
+  {
+   "id": "946",
+   "lang": "sk",
+   "value": "Hans Küng",
+   "translations": [
+    {
+     "id": "946",
+     "lang": "en",
+     "value": "Hans Küng"
+    },
+    {
+     "id": "946",
+     "lang": "de",
+     "value": "Hans Küng"
+    }
+   ]
+  },
+  {
+   "id": "950",
+   "lang": "sk",
+   "value": "Česká republika",
+   "translations": [
+    {
+     "id": "950",
+     "lang": "en",
+     "value": "Czech Republic (disambiguation)"
+    }
+   ]
+  },
+  {
+   "id": "952",
+   "lang": "sk",
+   "value": "Transcendentalizmus",
+   "translations": [
+    {
+     "id": "952",
+     "lang": "en",
+     "value": "Transcendentalism"
+    },
+    {
+     "id": "952",
+     "lang": "de",
+     "value": "Transzendentalismus"
+    }
+   ]
+  },
+  {
+   "id": "953",
+   "lang": "sk",
+   "value": "Ralph Waldo Emerson",
+   "translations": [
+    {
+     "id": "953",
+     "lang": "en",
+     "value": "Ralph Waldo Emerson"
+    },
+    {
+     "id": "953",
+     "lang": "de",
+     "value": "Ralph Waldo Emerson"
+    }
+   ]
+  },
+  {
+   "id": "954",
+   "lang": "sk",
+   "value": "Idealizmus",
+   "translations": [
+    {
+     "id": "954",
+     "lang": "en",
+     "value": "Idealism"
+    },
+    {
+     "id": "954",
+     "lang": "de",
+     "value": "Idealismus"
+    }
+   ]
+  },
+  {
+   "id": "955",
+   "lang": "sk",
+   "value": "Materializmus",
+   "translations": [
+    {
+     "id": "955",
+     "lang": "en",
+     "value": "Materialism"
+    },
+    {
+     "id": "955",
+     "lang": "de",
+     "value": "Materialismus"
+    }
+   ]
+  },
+  {
+   "id": "956",
+   "lang": "sk",
+   "value": "Pragmatizmus",
+   "translations": [
+    {
+     "id": "956",
+     "lang": "en",
+     "value": "Pragmatism"
+    },
+    {
+     "id": "956",
+     "lang": "de",
+     "value": "Pragmatismus"
+    }
+   ]
+  },
+  {
+   "id": "957",
+   "lang": "sk",
+   "value": "Zoznam filozofických smerov",
+   "translations": [
+    {
+     "id": "957",
+     "lang": "en",
+     "value": "List of philosophies"
+    }
+   ]
+  },
+  {
+   "id": "959",
+   "lang": "sk",
+   "value": "Anarchizmus",
+   "translations": [
+    {
+     "id": "959",
+     "lang": "en",
+     "value": "Anarchism"
+    },
+    {
+     "id": "959",
+     "lang": "de",
+     "value": "Anarchismus"
+    }
+   ]
+  },
+  {
+   "id": "960",
+   "lang": "sk",
+   "value": "Filozofická antropológia",
+   "translations": [
+    {
+     "id": "960",
+     "lang": "en",
+     "value": "Philosophical anthropology"
+    },
+    {
+     "id": "960",
+     "lang": "de",
+     "value": "Philosophische Anthropologie"
+    }
+   ]
+  },
+  {
+   "id": "962",
+   "lang": "sk",
+   "value": "Aristotelizmus",
+   "translations": [
+    {
+     "id": "962",
+     "lang": "en",
+     "value": "Aristotelianism"
+    },
+    {
+     "id": "962",
+     "lang": "de",
+     "value": "Aristotelismus"
+    }
+   ]
+  },
+  {
+   "id": "963",
+   "lang": "sk",
+   "value": "Atomizmus",
+   "translations": [
+    {
+     "id": "963",
+     "lang": "en",
+     "value": "Atomism"
+    },
+    {
+     "id": "963",
+     "lang": "de",
+     "value": "Atomismus"
+    }
+   ]
+  },
+  {
+   "id": "964",
+   "lang": "sk",
+   "value": "Austromarxizmus",
+   "translations": [
+    {
+     "id": "964",
+     "lang": "en",
+     "value": "Austromarxism"
+    },
+    {
+     "id": "964",
+     "lang": "de",
+     "value": "Austromarxismus"
+    }
+   ]
+  },
+  {
+   "id": "965",
+   "lang": "sk",
+   "value": "Averroizmus",
+   "translations": [
+    {
+     "id": "965",
+     "lang": "en",
+     "value": "Averroism"
+    },
+    {
+     "id": "965",
+     "lang": "de",
+     "value": "Averroismus"
+    }
+   ]
+  },
+  {
+   "id": "967",
+   "lang": "sk",
+   "value": "Eleatská škola",
+   "translations": [
+    {
+     "id": "967",
+     "lang": "en",
+     "value": "Eleatics"
+    },
+    {
+     "id": "967",
+     "lang": "de",
+     "value": "Eleaten"
+    }
+   ]
+  },
+  {
+   "id": "968",
+   "lang": "sk",
+   "value": "Zénón z Eley",
+   "translations": [
+    {
+     "id": "968",
+     "lang": "en",
+     "value": "Zeno of Elea"
+    },
+    {
+     "id": "968",
+     "lang": "de",
+     "value": "Zenon von Elea"
+    }
+   ]
+  },
+  {
+   "id": "969",
+   "lang": "sk",
+   "value": "Existencializmus",
+   "translations": [
+    {
+     "id": "969",
+     "lang": "en",
+     "value": "Existentialism"
+    },
+    {
+     "id": "969",
+     "lang": "de",
+     "value": "Existentialismus"
+    }
+   ]
+  },
+  {
+   "id": "970",
+   "lang": "sk",
+   "value": "Friedrich Nietzsche",
+   "translations": [
+    {
+     "id": "970",
+     "lang": "en",
+     "value": "Friedrich Nietzsche"
+    },
+    {
+     "id": "970",
+     "lang": "de",
+     "value": "Friedrich Nietzsche"
+    }
+   ]
+  },
+  {
+   "id": "971",
+   "lang": "sk",
+   "value": "Arthur Schopenhauer",
+   "translations": [
+    {
+     "id": "971",
+     "lang": "en",
+     "value": "Arthur Schopenhauer"
+    },
+    {
+     "id": "971",
+     "lang": "de",
+     "value": "Arthur Schopenhauer"
+    }
+   ]
+  },
+  {
+   "id": "972",
+   "lang": "sk",
+   "value": "Edmund Husserl",
+   "translations": [
+    {
+     "id": "972",
+     "lang": "en",
+     "value": "Edmund Husserl"
+    },
+    {
+     "id": "972",
+     "lang": "de",
+     "value": "Edmund Husserl"
+    }
+   ]
+  },
+  {
+   "id": "974",
+   "lang": "sk",
+   "value": "Tomizmus",
+   "translations": [
+    {
+     "id": "974",
+     "lang": "en",
+     "value": "Thomism"
+    },
+    {
+     "id": "974",
+     "lang": "de",
+     "value": "Thomismus"
+    }
+   ]
+  },
+  {
+   "id": "979",
+   "lang": "sk",
+   "value": "Severné Macedónsko",
+   "translations": [
+    {
+     "id": "979",
+     "lang": "en",
+     "value": "North Macedonia"
+    },
+    {
+     "id": "979",
+     "lang": "de",
+     "value": "Nordmazedonien"
+    }
+   ]
+  },
+  {
+   "id": "980",
+   "lang": "sk",
+   "value": "Macedónia (historické územie)",
+   "translations": [
+    {
+     "id": "980",
+     "lang": "en",
+     "value": "Macedonia (ancient kingdom)"
+    },
+    {
+     "id": "980",
+     "lang": "de",
+     "value": "Makedonien (antikes Königreich)"
+    }
+   ]
+  },
+  {
+   "id": "981",
+   "lang": "sk",
+   "value": "Balkánsky polostrov",
+   "translations": [
+    {
+     "id": "981",
+     "lang": "en",
+     "value": "Balkans"
+    },
+    {
+     "id": "981",
+     "lang": "de",
+     "value": "Balkanhalbinsel"
+    }
+   ]
+  },
+  {
+   "id": "982",
+   "lang": "sk",
+   "value": "Grécke jazyky",
+   "translations": [
+    {
+     "id": "982",
+     "lang": "en",
+     "value": "Greek language"
+    },
+    {
+     "id": "982",
+     "lang": "de",
+     "value": "Griechische Sprache"
+    }
+   ]
+  },
+  {
+   "id": "983",
+   "lang": "sk",
+   "value": "Solún",
+   "translations": [
+    {
+     "id": "983",
+     "lang": "en",
+     "value": "Thessaloniki"
+    },
+    {
+     "id": "983",
+     "lang": "de",
+     "value": "Thessaloniki"
+    }
+   ]
+  },
+  {
+   "id": "984",
+   "lang": "sk",
+   "value": "Polostrov",
+   "translations": [
+    {
+     "id": "984",
+     "lang": "en",
+     "value": "Peninsula"
+    },
+    {
+     "id": "984",
+     "lang": "de",
+     "value": "Halbinsel"
+    }
+   ]
+  },
+  {
+   "id": "985",
+   "lang": "sk",
+   "value": "Európa",
+   "translations": [
+    {
+     "id": "985",
+     "lang": "en",
+     "value": "Europe"
+    },
+    {
+     "id": "985",
+     "lang": "de",
+     "value": "Europa"
+    }
+   ]
+  },
+  {
+   "id": "986",
+   "lang": "sk",
+   "value": "Jadranské more",
+   "translations": [
+    {
+     "id": "986",
+     "lang": "en",
+     "value": "Adriatic Sea"
+    },
+    {
+     "id": "986",
+     "lang": "de",
+     "value": "Adriatisches Meer"
+    }
+   ]
+  },
+  {
+   "id": "987",
+   "lang": "sk",
+   "value": "Stredozemné more",
+   "translations": [
+    {
+     "id": "987",
+     "lang": "en",
+     "value": "Mediterranean Sea"
+    },
+    {
+     "id": "987",
+     "lang": "de",
+     "value": "Mittelmeer"
+    }
+   ]
+  },
+  {
+   "id": "988",
+   "lang": "sk",
+   "value": "Atlantický oceán",
+   "translations": [
+    {
+     "id": "988",
+     "lang": "en",
+     "value": "Atlantic Ocean"
+    },
+    {
+     "id": "988",
+     "lang": "de",
+     "value": "Atlantischer Ozean"
+    }
+   ]
+  },
+  {
+   "id": "989",
+   "lang": "sk",
+   "value": "Ázia",
+   "translations": [
+    {
+     "id": "989",
+     "lang": "en",
+     "value": "Asia"
+    },
+    {
+     "id": "989",
+     "lang": "de",
+     "value": "Asien"
+    }
+   ]
+  },
+  {
+   "id": "990",
+   "lang": "sk",
+   "value": "Afrika",
+   "translations": [
+    {
+     "id": "990",
+     "lang": "en",
+     "value": "Africa"
+    },
+    {
+     "id": "990",
+     "lang": "de",
+     "value": "Afrika"
+    }
+   ]
+  },
+  {
+   "id": "991",
+   "lang": "sk",
+   "value": "Kontinent",
+   "translations": [
+    {
+     "id": "991",
+     "lang": "en",
+     "value": "Continent"
+    },
+    {
+     "id": "991",
+     "lang": "de",
+     "value": "Kontinent"
+    }
+   ]
+  },
+  {
+   "id": "993",
+   "lang": "sk",
+   "value": "Austrália",
+   "translations": [
+    {
+     "id": "993",
+     "lang": "en",
+     "value": "Australia (disambiguation)"
+    },
+    {
+     "id": "993",
+     "lang": "de",
+     "value": "Australia"
+    }
+   ]
+  },
+  {
+   "id": "994",
+   "lang": "sk",
+   "value": "Antarktída",
+   "translations": [
+    {
+     "id": "994",
+     "lang": "en",
+     "value": "Antarctica"
+    },
+    {
+     "id": "994",
+     "lang": "de",
+     "value": "Antarktika"
+    }
+   ]
+  },
+  {
+   "id": "995",
+   "lang": "sk",
+   "value": "Zem",
+   "translations": [
+    {
+     "id": "995",
+     "lang": "en",
+     "value": "Earth"
+    },
+    {
+     "id": "995",
+     "lang": "de",
+     "value": "Erde"
+    }
+   ]
+  },
+  {
+   "id": "996",
+   "lang": "sk",
+   "value": "Slnečná sústava",
+   "translations": [
+    {
+     "id": "996",
+     "lang": "en",
+     "value": "Solar System"
+    },
+    {
+     "id": "996",
+     "lang": "de",
+     "value": "Sonnensystem"
+    }
+   ]
+  },
+  {
+   "id": "997",
+   "lang": "sk",
+   "value": "Eurázia",
+   "translations": [
+    {
+     "id": "997",
+     "lang": "en",
+     "value": "Eurasia"
+    },
+    {
+     "id": "997",
+     "lang": "de",
+     "value": "Eurasien"
+    }
+   ]
+  },
+  {
+   "id": "998",
+   "lang": "sk",
+   "value": "Pangea",
+   "translations": [
+    {
+     "id": "998",
+     "lang": "en",
+     "value": "Pangaea"
+    },
+    {
+     "id": "998",
+     "lang": "de",
+     "value": "Pangaea"
+    }
+   ]
+  },
+  {
+   "id": "1000",
+   "lang": "sk",
+   "value": "Starý svet",
+   "translations": [
+    {
+     "id": "1000",
+     "lang": "en",
+     "value": "Old World"
+    }
+   ]
+  },
+  {
+   "id": "1002",
+   "lang": "sk",
+   "value": "More",
+   "translations": [
+    {
+     "id": "1002",
+     "lang": "en",
+     "value": "Sea"
+    },
+    {
+     "id": "1002",
+     "lang": "de",
+     "value": "Meer"
+    }
+   ]
+  },
+  {
+   "id": "1003",
+   "lang": "sk",
+   "value": "Čierne more",
+   "translations": [
+    {
+     "id": "1003",
+     "lang": "en",
+     "value": "Black Sea"
+    },
+    {
+     "id": "1003",
+     "lang": "de",
+     "value": "Schwarzes Meer"
+    }
+   ]
+  },
+  {
+   "id": "1004",
+   "lang": "sk",
+   "value": "Iónske more",
+   "translations": [
+    {
+     "id": "1004",
+     "lang": "en",
+     "value": "Ionian Sea"
+    },
+    {
+     "id": "1004",
+     "lang": "de",
+     "value": "Ionisches Meer"
+    }
+   ]
+  },
+  {
+   "id": "1005",
+   "lang": "sk",
+   "value": "Apeninský polostrov",
+   "translations": [
+    {
+     "id": "1005",
+     "lang": "en",
+     "value": "Italian Peninsula"
+    },
+    {
+     "id": "1005",
+     "lang": "de",
+     "value": "Apenninhalbinsel"
+    }
+   ]
+  },
+  {
+   "id": "1006",
+   "lang": "sk",
+   "value": "Tyrrhenské more",
+   "translations": [
+    {
+     "id": "1006",
+     "lang": "en",
+     "value": "Tyrrhenian Sea"
+    },
+    {
+     "id": "1006",
+     "lang": "de",
+     "value": "Tyrrhenisches Meer"
+    }
+   ]
+  },
+  {
+   "id": "1007",
+   "lang": "sk",
+   "value": "Dunaj",
+   "translations": [
+    {
+     "id": "1007",
+     "lang": "en",
+     "value": "Danube"
+    },
+    {
+     "id": "1007",
+     "lang": "de",
+     "value": "Donau"
+    }
+   ]
+  },
+  {
+   "id": "1008",
+   "lang": "sk",
+   "value": "Filozofia",
+   "translations": [
+    {
+     "id": "1008",
+     "lang": "en",
+     "value": "Category:Philosophy"
+    },
+    {
+     "id": "1008",
+     "lang": "de",
+     "value": "Kategorie:Philosophie"
+    }
+   ]
+  },
+  {
+   "id": "1009",
+   "lang": "sk",
+   "value": "Neopozitivizmus",
+   "translations": [
+    {
+     "id": "1009",
+     "lang": "en",
+     "value": "Logical positivism"
+    },
+    {
+     "id": "1009",
+     "lang": "de",
+     "value": "Logischer Empirismus"
+    }
+   ]
+  },
+  {
+   "id": "1010",
+   "lang": "sk",
+   "value": "Peripatetici",
+   "translations": [
+    {
+     "id": "1010",
+     "lang": "en",
+     "value": "Peripatetic school"
+    },
+    {
+     "id": "1010",
+     "lang": "de",
+     "value": "Peripatos"
+    }
+   ]
+  },
+  {
+   "id": "1011",
+   "lang": "sk",
+   "value": "Rabíndranáth Thákur",
+   "translations": [
+    {
+     "id": "1011",
+     "lang": "en",
+     "value": "Rabindranath Tagore"
+    },
+    {
+     "id": "1011",
+     "lang": "de",
+     "value": "Rabindranath Tagore"
+    }
+   ]
+  },
+  {
+   "id": "1012",
+   "lang": "sk",
+   "value": "Pierre Teilhard de Chardin",
+   "translations": [
+    {
+     "id": "1012",
+     "lang": "en",
+     "value": "Pierre Teilhard de Chardin"
+    },
+    {
+     "id": "1012",
+     "lang": "de",
+     "value": "Pierre Teilhard de Chardin"
+    }
+   ]
+  },
+  {
+   "id": "1013",
+   "lang": "sk",
+   "value": "Richard Rorty",
+   "translations": [
+    {
+     "id": "1013",
+     "lang": "en",
+     "value": "Richard Rorty"
+    },
+    {
+     "id": "1013",
+     "lang": "de",
+     "value": "Richard Rorty"
+    }
+   ]
+  },
+  {
+   "id": "1017",
+   "lang": "sk",
+   "value": "Analytická filozofia",
+   "translations": [
+    {
+     "id": "1017",
+     "lang": "en",
+     "value": "Analytic philosophy"
+    },
+    {
+     "id": "1017",
+     "lang": "de",
+     "value": "Analytische Philosophie"
+    }
+   ]
+  },
+  {
+   "id": "1018",
+   "lang": "sk",
+   "value": "Kabala",
+   "translations": [
+    {
+     "id": "1018",
+     "lang": "en",
+     "value": "Kabbalah"
+    },
+    {
+     "id": "1018",
+     "lang": "de",
+     "value": "Kabbala"
+    }
+   ]
+  },
+  {
+   "id": "1020",
+   "lang": "sk",
+   "value": "Biblia",
+   "translations": [
+    {
+     "id": "1020",
+     "lang": "en",
+     "value": "Bible"
+    },
+    {
+     "id": "1020",
+     "lang": "de",
+     "value": "Bibel"
+    }
+   ]
+  },
+  {
+   "id": "1022",
+   "lang": "sk",
+   "value": "Nový zákon",
+   "translations": [
+    {
+     "id": "1022",
+     "lang": "en",
+     "value": "New Testament"
+    },
+    {
+     "id": "1022",
+     "lang": "de",
+     "value": "Neues Testament"
+    }
+   ]
+  },
+  {
+   "id": "1023",
+   "lang": "sk",
+   "value": "Židovská filozofia",
+   "translations": [
+    {
+     "id": "1023",
+     "lang": "en",
+     "value": "Jewish philosophy"
+    },
+    {
+     "id": "1023",
+     "lang": "de",
+     "value": "Jüdische Philosophie"
+    }
+   ]
+  },
+  {
+   "id": "1024",
+   "lang": "sk",
+   "value": "Korán",
+   "translations": [
+    {
+     "id": "1024",
+     "lang": "en",
+     "value": "Quran"
+    },
+    {
+     "id": "1024",
+     "lang": "de",
+     "value": "Koran"
+    }
+   ]
+  },
+  {
+   "id": "1025",
+   "lang": "sk",
+   "value": "Islam",
+   "translations": [
+    {
+     "id": "1025",
+     "lang": "en",
+     "value": "Islam"
+    },
+    {
+     "id": "1025",
+     "lang": "de",
+     "value": "Islam"
+    }
+   ]
+  },
+  {
+   "id": "1026",
+   "lang": "sk",
+   "value": "Mohamed",
+   "translations": [
+    {
+     "id": "1026",
+     "lang": "en",
+     "value": "Muhammad"
+    },
+    {
+     "id": "1026",
+     "lang": "de",
+     "value": "Mohammed"
+    }
+   ]
+  },
+  {
+   "id": "1027",
+   "lang": "sk",
+   "value": "Kresťanstvo",
+   "translations": [
+    {
+     "id": "1027",
+     "lang": "en",
+     "value": "Christianity"
+    },
+    {
+     "id": "1027",
+     "lang": "de",
+     "value": "Christentum"
+    }
+   ]
+  },
+  {
+   "id": "1029",
+   "lang": "sk",
+   "value": "Boh",
+   "translations": [
+    {
+     "id": "1029",
+     "lang": "en",
+     "value": "God"
+    },
+    {
+     "id": "1029",
+     "lang": "de",
+     "value": "Gott"
+    }
+   ]
+  },
+  {
+   "id": "1031",
+   "lang": "sk",
+   "value": "Indická filozofia",
+   "translations": [
+    {
+     "id": "1031",
+     "lang": "en",
+     "value": "Indian philosophy"
+    },
+    {
+     "id": "1031",
+     "lang": "de",
+     "value": "Indische Philosophie"
+    }
+   ]
+  },
+  {
+   "id": "1032",
+   "lang": "sk",
+   "value": "Siddhártha Gautama Buddha",
+   "translations": [
+    {
+     "id": "1032",
+     "lang": "en",
+     "value": "Gautama Buddha"
+    },
+    {
+     "id": "1032",
+     "lang": "de",
+     "value": "Siddhartha Gautama"
+    }
+   ]
+  },
+  {
+   "id": "1033",
+   "lang": "sk",
+   "value": "Nárečie",
+   "translations": [
+    {
+     "id": "1033",
+     "lang": "en",
+     "value": "Dialect"
+    },
+    {
+     "id": "1033",
+     "lang": "de",
+     "value": "Dialekt"
+    }
+   ]
+  },
+  {
+   "id": "1034",
+   "lang": "sk",
+   "value": "Metafyzika",
+   "translations": [
+    {
+     "id": "1034",
+     "lang": "en",
+     "value": "Metaphysics"
+    },
+    {
+     "id": "1034",
+     "lang": "de",
+     "value": "Metaphysik"
+    }
+   ]
+  },
+  {
+   "id": "1035",
+   "lang": "sk",
+   "value": "Psychoterapia",
+   "translations": [
+    {
+     "id": "1035",
+     "lang": "en",
+     "value": "Psychotherapy"
+    },
+    {
+     "id": "1035",
+     "lang": "de",
+     "value": "Psychotherapie"
+    }
+   ]
+  },
+  {
+   "id": "1036",
+   "lang": "sk",
+   "value": "Hypnóza",
+   "translations": [
+    {
+     "id": "1036",
+     "lang": "en",
+     "value": "Hypnosis"
+    },
+    {
+     "id": "1036",
+     "lang": "de",
+     "value": "Hypnose"
+    }
+   ]
+  },
+  {
+   "id": "1038",
+   "lang": "sk",
+   "value": "Arabčina",
+   "translations": [
+    {
+     "id": "1038",
+     "lang": "en",
+     "value": "Arabic"
+    },
+    {
+     "id": "1038",
+     "lang": "de",
+     "value": "Arabische Sprache"
+    }
+   ]
+  },
+  {
+   "id": "1039",
+   "lang": "sk",
+   "value": "Semitské jazyky",
+   "translations": [
+    {
+     "id": "1039",
+     "lang": "en",
+     "value": "Semitic languages"
+    },
+    {
+     "id": "1039",
+     "lang": "de",
+     "value": "Semitische Sprachen"
+    }
+   ]
+  },
+  {
+   "id": "1041",
+   "lang": "sk",
+   "value": "Perzia",
+   "translations": [
+    {
+     "id": "1041",
+     "lang": "en",
+     "value": "Persia (disambiguation)"
+    },
+    {
+     "id": "1041",
+     "lang": "de",
+     "value": "Persien"
+    }
+   ]
+  },
+  {
+   "id": "1043",
+   "lang": "sk",
+   "value": "Arménsko",
+   "translations": [
+    {
+     "id": "1043",
+     "lang": "en",
+     "value": "Armenia"
+    },
+    {
+     "id": "1043",
+     "lang": "de",
+     "value": "Armenien"
+    }
+   ]
+  },
+  {
+   "id": "1044",
+   "lang": "sk",
+   "value": "Palestína (územie)",
+   "translations": [
+    {
+     "id": "1044",
+     "lang": "en",
+     "value": "Palestine (region)"
+    },
+    {
+     "id": "1044",
+     "lang": "de",
+     "value": "Palästina (Region)"
+    }
+   ]
+  },
+  {
+   "id": "1046",
+   "lang": "sk",
+   "value": "Židia",
+   "translations": [
+    {
+     "id": "1046",
+     "lang": "en",
+     "value": "Jews"
+    },
+    {
+     "id": "1046",
+     "lang": "de",
+     "value": "Juden"
+    }
+   ]
+  },
+  {
+   "id": "1047",
+   "lang": "sk",
+   "value": "Izraeliti",
+   "translations": [
+    {
+     "id": "1047",
+     "lang": "en",
+     "value": "Israelites"
+    },
+    {
+     "id": "1047",
+     "lang": "de",
+     "value": "Israeliten"
+    }
+   ]
+  },
+  {
+   "id": "1048",
+   "lang": "sk",
+   "value": "Hebrejci",
+   "translations": [
+    {
+     "id": "1048",
+     "lang": "en",
+     "value": "Hebrews"
+    },
+    {
+     "id": "1048",
+     "lang": "de",
+     "value": "Hebräer"
+    }
+   ]
+  },
+  {
+   "id": "1049",
+   "lang": "sk",
+   "value": "Abrahám (biblická postava)",
+   "translations": [
+    {
+     "id": "1049",
+     "lang": "en",
+     "value": "Abraham"
+    },
+    {
+     "id": "1049",
+     "lang": "de",
+     "value": "Abraham"
+    }
+   ]
+  },
+  {
+   "id": "1050",
+   "lang": "sk",
+   "value": "Hebraistika",
+   "translations": [
+    {
+     "id": "1050",
+     "lang": "en",
+     "value": "Study of the Hebrew language"
+    },
+    {
+     "id": "1050",
+     "lang": "de",
+     "value": "Hebraistik"
+    }
+   ]
+  },
+  {
+   "id": "1051",
+   "lang": "sk",
+   "value": "Orientalistika",
+   "translations": [
+    {
+     "id": "1051",
+     "lang": "en",
+     "value": "Oriental studies"
+    },
+    {
+     "id": "1051",
+     "lang": "de",
+     "value": "Orientalistik"
+    }
+   ]
+  },
+  {
+   "id": "1052",
+   "lang": "sk",
+   "value": "Veda",
+   "translations": [
+    {
+     "id": "1052",
+     "lang": "en",
+     "value": "Science"
+    },
+    {
+     "id": "1052",
+     "lang": "de",
+     "value": "Wissenschaft"
+    }
+   ]
+  },
+  {
+   "id": "1053",
+   "lang": "sk",
+   "value": "Poznatok",
+   "translations": [
+    {
+     "id": "1053",
+     "lang": "de",
+     "value": "Erkenntnis"
+    }
+   ]
+  },
+  {
+   "id": "1055",
+   "lang": "sk",
+   "value": "Go",
+   "translations": [
+    {
+     "id": "1055",
+     "lang": "en",
+     "value": "Go (game)"
+    },
+    {
+     "id": "1055",
+     "lang": "de",
+     "value": "Go (Spiel)"
+    }
+   ]
+  },
+  {
+   "id": "1057",
+   "lang": "sk",
+   "value": "Evolučný emergentizmus",
+   "translations": [
+    {
+     "id": "1057",
+     "lang": "en",
+     "value": "Emergent evolution"
+    }
+   ]
+  },
+  {
+   "id": "1058",
+   "lang": "sk",
+   "value": "Emotivizmus",
+   "translations": [
+    {
+     "id": "1058",
+     "lang": "en",
+     "value": "Emotivism"
+    },
+    {
+     "id": "1058",
+     "lang": "de",
+     "value": "Metaethik#Emotivismus"
+    }
+   ]
+  },
+  {
+   "id": "1059",
+   "lang": "sk",
+   "value": "Empiriokriticizmus",
+   "translations": [
+    {
+     "id": "1059",
+     "lang": "en",
+     "value": "Empirio-criticism"
+    },
+    {
+     "id": "1059",
+     "lang": "de",
+     "value": "Empiriokritizismus"
+    }
+   ]
+  },
+  {
+   "id": "1060",
+   "lang": "sk",
+   "value": "Empirizmus",
+   "translations": [
+    {
+     "id": "1060",
+     "lang": "en",
+     "value": "Empiricism"
+    },
+    {
+     "id": "1060",
+     "lang": "de",
+     "value": "Empirismus"
+    }
+   ]
+  },
+  {
+   "id": "1061",
+   "lang": "sk",
+   "value": "Epikureizmus",
+   "translations": [
+    {
+     "id": "1061",
+     "lang": "en",
+     "value": "Epicureanism"
+    },
+    {
+     "id": "1061",
+     "lang": "de",
+     "value": "Epikureismus"
+    }
+   ]
+  },
+  {
+   "id": "1063",
+   "lang": "sk",
+   "value": "Hedonizmus",
+   "translations": [
+    {
+     "id": "1063",
+     "lang": "en",
+     "value": "Hedonism"
+    },
+    {
+     "id": "1063",
+     "lang": "de",
+     "value": "Hedonismus"
+    }
+   ]
+  },
+  {
+   "id": "1065",
+   "lang": "sk",
+   "value": "Hylozoizmus",
+   "translations": [
+    {
+     "id": "1065",
+     "lang": "en",
+     "value": "Hylozoism"
+    },
+    {
+     "id": "1065",
+     "lang": "de",
+     "value": "Hylozoismus"
+    }
+   ]
+  },
+  {
+   "id": "1066",
+   "lang": "sk",
+   "value": "Novotomizmus",
+   "translations": [
+    {
+     "id": "1066",
+     "lang": "en",
+     "value": "Neothomism"
+    },
+    {
+     "id": "1066",
+     "lang": "de",
+     "value": "Neuthomismus"
+    }
+   ]
+  },
+  {
+   "id": "1069",
+   "lang": "sk",
+   "value": "Objektívny idealizmus",
+   "translations": [
+    {
+     "id": "1069",
+     "lang": "en",
+     "value": "Objective idealism"
+    },
+    {
+     "id": "1069",
+     "lang": "de",
+     "value": "Objektiver Idealismus"
+    }
+   ]
+  },
+  {
+   "id": "1070",
+   "lang": "sk",
+   "value": "Subjektívny idealizmus",
+   "translations": [
+    {
+     "id": "1070",
+     "lang": "en",
+     "value": "Subjective idealism"
+    },
+    {
+     "id": "1070",
+     "lang": "de",
+     "value": "Subjektiver Idealismus"
+    }
+   ]
+  },
+  {
+   "id": "1071",
+   "lang": "sk",
+   "value": "Imanentizmus",
+   "translations": [
+    {
+     "id": "1071",
+     "lang": "de",
+     "value": "Immanenzphilosophie"
+    }
+   ]
+  },
+  {
+   "id": "1078",
+   "lang": "sk",
+   "value": "Budhizmus",
+   "translations": [
+    {
+     "id": "1078",
+     "lang": "en",
+     "value": "Buddhism"
+    },
+    {
+     "id": "1078",
+     "lang": "de",
+     "value": "Buddhismus"
+    }
+   ]
+  },
+  {
+   "id": "1079",
+   "lang": "sk",
+   "value": "Brona",
+   "translations": [
+    {
+     "id": "1079",
+     "lang": "en",
+     "value": "User:Brona"
+    }
+   ]
+  },
+  {
+   "id": "1081",
+   "lang": "sk",
+   "value": "Slobodný softvér",
+   "translations": [
+    {
+     "id": "1081",
+     "lang": "en",
+     "value": "Free software"
+    },
+    {
+     "id": "1081",
+     "lang": "de",
+     "value": "Freie Software"
+    }
+   ]
+  },
+  {
+   "id": "1082",
+   "lang": "sk",
+   "value": "Stránky na zmazanie",
+   "translations": [
+    {
+     "id": "1082",
+     "lang": "en",
+     "value": "Wikipedia:Articles for deletion"
+    },
+    {
+     "id": "1082",
+     "lang": "de",
+     "value": "Wikipedia:Löschkandidaten"
+    }
+   ]
+  },
+  {
+   "id": "1087",
+   "lang": "sk",
+   "value": "Mailing listy",
+   "translations": [
+    {
+     "id": "1087",
+     "lang": "en",
+     "value": "Wikipedia:Mailing lists"
+    },
+    {
+     "id": "1087",
+     "lang": "de",
+     "value": "Wikipedia:Mailinglisten"
+    }
+   ]
+  },
+  {
+   "id": "1089",
+   "lang": "sk",
+   "value": "Protection log",
+   "translations": [
+    {
+     "id": "1089",
+     "lang": "en",
+     "value": "Wikipedia:Protection log"
+    },
+    {
+     "id": "1089",
+     "lang": "de",
+     "value": "Wikipedia:Löschkandidaten/Archiv:Seitenschutz-Logbuch"
+    }
+   ]
+  },
+  {
+   "id": "1093",
+   "lang": "sk",
+   "value": "Iracionalizmus",
+   "translations": [
+    {
+     "id": "1093",
+     "lang": "en",
+     "value": "Irrationalism"
+    },
+    {
+     "id": "1093",
+     "lang": "de",
+     "value": "Irrationalismus"
+    }
+   ]
+  },
+  {
+   "id": "1094",
+   "lang": "sk",
+   "value": "Konfucianizmus",
+   "translations": [
+    {
+     "id": "1094",
+     "lang": "en",
+     "value": "Confucianism"
+    },
+    {
+     "id": "1094",
+     "lang": "de",
+     "value": "Konfuzianismus"
+    }
+   ]
+  },
+  {
+   "id": "1095",
+   "lang": "sk",
+   "value": "Konfucius",
+   "translations": [
+    {
+     "id": "1095",
+     "lang": "en",
+     "value": "Confucius"
+    },
+    {
+     "id": "1095",
+     "lang": "de",
+     "value": "Konfuzius"
+    }
+   ]
+  },
+  {
+   "id": "1097",
+   "lang": "sk",
+   "value": "Marxizmus",
+   "translations": [
+    {
+     "id": "1097",
+     "lang": "en",
+     "value": "Marxism"
+    },
+    {
+     "id": "1097",
+     "lang": "de",
+     "value": "Marxismus"
+    }
+   ]
+  },
+  {
+   "id": "1099",
+   "lang": "sk",
+   "value": "Marxizmus-leninizmus",
+   "translations": [
+    {
+     "id": "1099",
+     "lang": "en",
+     "value": "Marxism–Leninism"
+    },
+    {
+     "id": "1099",
+     "lang": "de",
+     "value": "Marxismus-Leninismus"
+    }
+   ]
+  },
+  {
+   "id": "1101",
+   "lang": "sk",
+   "value": "Senzualizmus (filozofia)",
+   "translations": [
+    {
+     "id": "1101",
+     "lang": "en",
+     "value": "Sensualism"
+    },
+    {
+     "id": "1101",
+     "lang": "de",
+     "value": "Sensualismus"
+    }
+   ]
+  },
+  {
+   "id": "1102",
+   "lang": "sk",
+   "value": "Kynizmus",
+   "translations": [
+    {
+     "id": "1102",
+     "lang": "en",
+     "value": "Cynicism (philosophy)"
+    },
+    {
+     "id": "1102",
+     "lang": "de",
+     "value": "Kynismus"
+    }
+   ]
+  },
+  {
+   "id": "1106",
+   "lang": "sk",
+   "value": "Megarská škola",
+   "translations": [
+    {
+     "id": "1106",
+     "lang": "en",
+     "value": "Megarian school"
+    },
+    {
+     "id": "1106",
+     "lang": "de",
+     "value": "Megariker"
+    }
+   ]
+  },
+  {
+   "id": "1108",
+   "lang": "sk",
+   "value": "Kyrénska škola",
+   "translations": [
+    {
+     "id": "1108",
+     "lang": "en",
+     "value": "Cyrenaics"
+    },
+    {
+     "id": "1108",
+     "lang": "de",
+     "value": "Kyrenaiker"
+    }
+   ]
+  },
+  {
+   "id": "1109",
+   "lang": "sk",
+   "value": "Diogenes zo Sinópy",
+   "translations": [
+    {
+     "id": "1109",
+     "lang": "en",
+     "value": "Diogenes"
+    },
+    {
+     "id": "1109",
+     "lang": "de",
+     "value": "Diogenes von Sinope"
+    }
+   ]
+  },
+  {
+   "id": "1110",
+   "lang": "sk",
+   "value": "Antisthenes z Atén",
+   "translations": [
+    {
+     "id": "1110",
+     "lang": "en",
+     "value": "Antisthenes"
+    },
+    {
+     "id": "1110",
+     "lang": "de",
+     "value": "Antisthenes"
+    }
+   ]
+  },
+  {
+   "id": "1111",
+   "lang": "sk",
+   "value": "Platón",
+   "translations": [
+    {
+     "id": "1111",
+     "lang": "en",
+     "value": "Plato"
+    },
+    {
+     "id": "1111",
+     "lang": "de",
+     "value": "Platon"
+    }
+   ]
+  },
+  {
+   "id": "1112",
+   "lang": "sk",
+   "value": "Nicola Abbagnano",
+   "translations": [
+    {
+     "id": "1112",
+     "lang": "en",
+     "value": "Nicola Abbagnano"
+    },
+    {
+     "id": "1112",
+     "lang": "de",
+     "value": "Nicola Abbagnano"
+    }
+   ]
+  },
+  {
+   "id": "1113",
+   "lang": "sk",
+   "value": "Thomas Abbt",
+   "translations": [
+    {
+     "id": "1113",
+     "lang": "en",
+     "value": "Thomas Abbt"
+    },
+    {
+     "id": "1113",
+     "lang": "de",
+     "value": "Thomas Abbt"
+    }
+   ]
+  },
+  {
+   "id": "1115",
+   "lang": "sk",
+   "value": "Pierre Abélard",
+   "translations": [
+    {
+     "id": "1115",
+     "lang": "en",
+     "value": "Peter Abelard"
+    },
+    {
+     "id": "1115",
+     "lang": "de",
+     "value": "Petrus Abaelardus"
+    }
+   ]
+  },
+  {
+   "id": "1116",
+   "lang": "sk",
+   "value": "Karl Abraham",
+   "translations": [
+    {
+     "id": "1116",
+     "lang": "en",
+     "value": "Karl Abraham"
+    },
+    {
+     "id": "1116",
+     "lang": "de",
+     "value": "Karl Abraham"
+    }
+   ]
+  },
+  {
+   "id": "1118",
+   "lang": "sk",
+   "value": "Edward Abramowski",
+   "translations": [
+    {
+     "id": "1118",
+     "lang": "en",
+     "value": "Edward Abramowski"
+    },
+    {
+     "id": "1118",
+     "lang": "de",
+     "value": "Edward Józef Abramowski"
+    }
+   ]
+  },
+  {
+   "id": "1120",
+   "lang": "sk",
+   "value": "Abraham ben Samuel Abulafia",
+   "translations": [
+    {
+     "id": "1120",
+     "lang": "en",
+     "value": "Abraham Abulafia"
+    },
+    {
+     "id": "1120",
+     "lang": "de",
+     "value": "Abraham Abulafia"
+    }
+   ]
+  },
+  {
+   "id": "1121",
+   "lang": "sk",
+   "value": "Adam z Marshu",
+   "translations": [
+    {
+     "id": "1121",
+     "lang": "en",
+     "value": "Adam Marsh"
+    }
+   ]
+  },
+  {
+   "id": "1122",
+   "lang": "sk",
+   "value": "Adelard z Bathu",
+   "translations": [
+    {
+     "id": "1122",
+     "lang": "en",
+     "value": "Adelard of Bath"
+    },
+    {
+     "id": "1122",
+     "lang": "de",
+     "value": "Adelard von Bath"
+    }
+   ]
+  },
+  {
+   "id": "1123",
+   "lang": "sk",
+   "value": "Alfred Adler",
+   "translations": [
+    {
+     "id": "1123",
+     "lang": "en",
+     "value": "Alfred Adler"
+    },
+    {
+     "id": "1123",
+     "lang": "de",
+     "value": "Alfred Adler"
+    }
+   ]
+  },
+  {
+   "id": "1124",
+   "lang": "sk",
+   "value": "Theodor Wiesengrund Adorno",
+   "translations": [
+    {
+     "id": "1124",
+     "lang": "en",
+     "value": "Theodor W. Adorno"
+    },
+    {
+     "id": "1124",
+     "lang": "de",
+     "value": "Theodor W. Adorno"
+    }
+   ]
+  },
+  {
+   "id": "1125",
+   "lang": "sk",
+   "value": "Aetios z Antiochie",
+   "translations": [
+    {
+     "id": "1125",
+     "lang": "en",
+     "value": "Aëtius of Antioch"
+    },
+    {
+     "id": "1125",
+     "lang": "de",
+     "value": "Aëtios von Antiochia"
+    }
+   ]
+  },
+  {
+   "id": "1126",
+   "lang": "sk",
+   "value": "Giorgio Agamben",
+   "translations": [
+    {
+     "id": "1126",
+     "lang": "en",
+     "value": "Giorgio Agamben"
+    },
+    {
+     "id": "1126",
+     "lang": "de",
+     "value": "Giorgio Agamben"
+    }
+   ]
+  },
+  {
+   "id": "1127",
+   "lang": "sk",
+   "value": "Rudolf Agricola",
+   "translations": [
+    {
+     "id": "1127",
+     "lang": "en",
+     "value": "Rodolphus Agricola"
+    },
+    {
+     "id": "1127",
+     "lang": "de",
+     "value": "Rudolf Agricola (Humanist)"
+    }
+   ]
+  },
+  {
+   "id": "1128",
+   "lang": "sk",
+   "value": "Agrippa",
+   "translations": [
+    {
+     "id": "1128",
+     "lang": "en",
+     "value": "Agrippa the Skeptic"
+    },
+    {
+     "id": "1128",
+     "lang": "de",
+     "value": "Agrippa (Philosoph)"
+    }
+   ]
+  },
+  {
+   "id": "1129",
+   "lang": "sk",
+   "value": "Mirza Fatali Achundov",
+   "translations": [
+    {
+     "id": "1129",
+     "lang": "en",
+     "value": "Mirza Fatali Akhundov"
+    },
+    {
+     "id": "1129",
+     "lang": "de",
+     "value": "Mirzə Fətəli Axundov"
+    }
+   ]
+  },
+  {
+   "id": "1130",
+   "lang": "sk",
+   "value": "Ainesidémos",
+   "translations": [
+    {
+     "id": "1130",
+     "lang": "en",
+     "value": "Aenesidemus"
+    },
+    {
+     "id": "1130",
+     "lang": "de",
+     "value": "Ainesidemos"
+    }
+   ]
+  },
+  {
+   "id": "1132",
+   "lang": "sk",
+   "value": "Kazimierz Ajdukiewicz",
+   "translations": [
+    {
+     "id": "1132",
+     "lang": "en",
+     "value": "Kazimierz Ajdukiewicz"
+    },
+    {
+     "id": "1132",
+     "lang": "de",
+     "value": "Kazimierz Ajdukiewicz"
+    }
+   ]
+  },
+  {
+   "id": "1133",
+   "lang": "sk",
+   "value": "Alanus ab Insulis",
+   "translations": [
+    {
+     "id": "1133",
+     "lang": "en",
+     "value": "Alain de Lille"
+    },
+    {
+     "id": "1133",
+     "lang": "de",
+     "value": "Alanus ab Insulis"
+    }
+   ]
+  },
+  {
+   "id": "1136",
+   "lang": "sk",
+   "value": "Hans Albert",
+   "translations": [
+    {
+     "id": "1136",
+     "lang": "en",
+     "value": "Hans Albert"
+    },
+    {
+     "id": "1136",
+     "lang": "de",
+     "value": "Hans Albert"
+    }
+   ]
+  },
+  {
+   "id": "1137",
+   "lang": "sk",
+   "value": "Karl Albert",
+   "translations": [
+    {
+     "id": "1137",
+     "lang": "en",
+     "value": "Karl Albert"
+    },
+    {
+     "id": "1137",
+     "lang": "de",
+     "value": "Karl Albert (Philosoph)"
+    }
+   ]
+  },
+  {
+   "id": "1138",
+   "lang": "sk",
+   "value": "Albert Saský (filozof)",
+   "translations": [
+    {
+     "id": "1138",
+     "lang": "en",
+     "value": "Albert of Saxony (philosopher)"
+    },
+    {
+     "id": "1138",
+     "lang": "de",
+     "value": "Albert von Rickmersdorf"
+    }
+   ]
+  },
+  {
+   "id": "1139",
+   "lang": "sk",
+   "value": "Albert Veľký",
+   "translations": [
+    {
+     "id": "1139",
+     "lang": "en",
+     "value": "Category:2009"
+    },
+    {
+     "id": "1139",
+     "lang": "de",
+     "value": "Albertus Magnus"
+    }
+   ]
+  },
+  {
+   "id": "1140",
+   "lang": "sk",
+   "value": "Albinos",
+   "translations": [
+    {
+     "id": "1140",
+     "lang": "en",
+     "value": "Albinus (philosopher)"
+    },
+    {
+     "id": "1140",
+     "lang": "de",
+     "value": "Albinos (Philosoph)"
+    }
+   ]
+  },
+  {
+   "id": "1141",
+   "lang": "sk",
+   "value": "Josef Albo",
+   "translations": [
+    {
+     "id": "1141",
+     "lang": "en",
+     "value": "Joseph Albo"
+    },
+    {
+     "id": "1141",
+     "lang": "de",
+     "value": "Josef Albo"
+    }
+   ]
+  },
+  {
+   "id": "1142",
+   "lang": "sk",
+   "value": "Ján Albrecht",
+   "translations": [
+    {
+     "id": "1142",
+     "lang": "de",
+     "value": "Ján Albrecht"
+    }
+   ]
+  },
+  {
+   "id": "1143",
+   "lang": "sk",
+   "value": "Alcuin",
+   "translations": [
+    {
+     "id": "1143",
+     "lang": "en",
+     "value": "Alcuin"
+    },
+    {
+     "id": "1143",
+     "lang": "de",
+     "value": "Alkuin"
+    }
+   ]
+  },
+  {
+   "id": "1144",
+   "lang": "sk",
+   "value": "Samuel Alexander",
+   "translations": [
+    {
+     "id": "1144",
+     "lang": "en",
+     "value": "Samuel Alexander"
+    },
+    {
+     "id": "1144",
+     "lang": "de",
+     "value": "Samuel Alexander"
+    }
+   ]
+  },
+  {
+   "id": "1145",
+   "lang": "sk",
+   "value": "Jean le Rond d’Alembert",
+   "translations": [
+    {
+     "id": "1145",
+     "lang": "en",
+     "value": "Jean le Rond d\\"
+    },
+    {
+     "id": "1145",
+     "lang": "de",
+     "value": "Jean-Baptiste le Rond d’Alembert"
+    }
+   ]
+  },
+  {
+   "id": "1146",
+   "lang": "sk",
+   "value": "Alexander Neckam",
+   "translations": [
+    {
+     "id": "1146",
+     "lang": "en",
+     "value": "Alexander Neckam"
+    },
+    {
+     "id": "1146",
+     "lang": "de",
+     "value": "Alexander Neckam"
+    }
+   ]
+  },
+  {
+   "id": "1147",
+   "lang": "sk",
+   "value": "Alexander z Afrodízie",
+   "translations": [
+    {
+     "id": "1147",
+     "lang": "en",
+     "value": "Alexander of Aphrodisias"
+    },
+    {
+     "id": "1147",
+     "lang": "de",
+     "value": "Alexander von Aphrodisias"
+    }
+   ]
+  },
+  {
+   "id": "1148",
+   "lang": "sk",
+   "value": "Alexander z Halesu",
+   "translations": [
+    {
+     "id": "1148",
+     "lang": "en",
+     "value": "Alexander of Hales"
+    },
+    {
+     "id": "1148",
+     "lang": "de",
+     "value": "Alexander von Hales"
+    }
+   ]
+  },
+  {
+   "id": "1149",
+   "lang": "sk",
+   "value": "Al-Kindí",
+   "translations": [
+    {
+     "id": "1149",
+     "lang": "en",
+     "value": "Al-Kindi"
+    },
+    {
+     "id": "1149",
+     "lang": "de",
+     "value": "Al-Kindī"
+    }
+   ]
+  },
+  {
+   "id": "1150",
+   "lang": "sk",
+   "value": "Alkmaión z Krotónu",
+   "translations": [
+    {
+     "id": "1150",
+     "lang": "en",
+     "value": "Alcmaeon of Croton"
+    },
+    {
+     "id": "1150",
+     "lang": "de",
+     "value": "Alkmaion (Philosoph)"
+    }
+   ]
+  },
+  {
+   "id": "1151",
+   "lang": "sk",
+   "value": "René Alleau",
+   "translations": [
+    {
+     "id": "1151",
+     "lang": "en",
+     "value": "René Alleau"
+    }
+   ]
+  },
+  {
+   "id": "1152",
+   "lang": "sk",
+   "value": "Isabel Allendeová",
+   "translations": [
+    {
+     "id": "1152",
+     "lang": "en",
+     "value": "Isabel Allende"
+    },
+    {
+     "id": "1152",
+     "lang": "de",
+     "value": "Isabel Allende"
+    }
+   ]
+  },
+  {
+   "id": "1153",
+   "lang": "sk",
+   "value": "Ferdinand Alquié",
+   "translations": [
+    {
+     "id": "1153",
+     "lang": "en",
+     "value": "Ferdinand Alquié"
+    }
+   ]
+  },
+  {
+   "id": "1154",
+   "lang": "sk",
+   "value": "Johann Heinrich Alsted",
+   "translations": [
+    {
+     "id": "1154",
+     "lang": "en",
+     "value": "Johann Heinrich Alsted"
+    },
+    {
+     "id": "1154",
+     "lang": "de",
+     "value": "Johann Heinrich Alsted"
+    }
+   ]
+  },
+  {
+   "id": "1155",
+   "lang": "sk",
+   "value": "Louis Althusser",
+   "translations": [
+    {
+     "id": "1155",
+     "lang": "en",
+     "value": "Louis Althusser"
+    },
+    {
+     "id": "1155",
+     "lang": "de",
+     "value": "Louis Althusser"
+    }
+   ]
+  },
+  {
+   "id": "1156",
+   "lang": "sk",
+   "value": "Günter Altner",
+   "translations": [
+    {
+     "id": "1156",
+     "lang": "en",
+     "value": "Günter Altner"
+    },
+    {
+     "id": "1156",
+     "lang": "de",
+     "value": "Günter Altner"
+    }
+   ]
+  },
+  {
+   "id": "1157",
+   "lang": "sk",
+   "value": "Amalrich z Bene",
+   "translations": [
+    {
+     "id": "1157",
+     "lang": "en",
+     "value": "Amalric of Bena"
+    },
+    {
+     "id": "1157",
+     "lang": "de",
+     "value": "Amalrich von Bena"
+    }
+   ]
+  },
+  {
+   "id": "1158",
+   "lang": "sk",
+   "value": "Ambrosius Milánsky",
+   "translations": [
+    {
+     "id": "1158",
+     "lang": "en",
+     "value": "Ambrose"
+    },
+    {
+     "id": "1158",
+     "lang": "de",
+     "value": "Ambrosius von Mailand"
+    }
+   ]
+  },
+  {
+   "id": "1159",
+   "lang": "sk",
+   "value": "Karel Slavoj Amerling",
+   "translations": [
+    {
+     "id": "1159",
+     "lang": "en",
+     "value": "Karel Slavoj Amerling"
+    },
+    {
+     "id": "1159",
+     "lang": "de",
+     "value": "Karel Slavoj Amerling"
+    }
+   ]
+  },
+  {
+   "id": "1160",
+   "lang": "sk",
+   "value": "Carl Amery",
+   "translations": [
+    {
+     "id": "1160",
+     "lang": "en",
+     "value": "Carl Amery"
+    },
+    {
+     "id": "1160",
+     "lang": "de",
+     "value": "Carl Amery"
+    }
+   ]
+  },
+  {
+   "id": "1161",
+   "lang": "sk",
+   "value": "Jean Améry",
+   "translations": [
+    {
+     "id": "1161",
+     "lang": "en",
+     "value": "Jean Améry"
+    },
+    {
+     "id": "1161",
+     "lang": "de",
+     "value": "Jean Améry"
+    }
+   ]
+  },
+  {
+   "id": "1162",
+   "lang": "sk",
+   "value": "Ammónios Sakkas",
+   "translations": [
+    {
+     "id": "1162",
+     "lang": "en",
+     "value": "Ammonius Saccas"
+    },
+    {
+     "id": "1162",
+     "lang": "de",
+     "value": "Ammonios Sakkas"
+    }
+   ]
+  },
+  {
+   "id": "1163",
+   "lang": "sk",
+   "value": "Anan ben David",
+   "translations": [
+    {
+     "id": "1163",
+     "lang": "en",
+     "value": "Anan ben David"
+    },
+    {
+     "id": "1163",
+     "lang": "de",
+     "value": "Anan ben David"
+    }
+   ]
+  },
+  {
+   "id": "1164",
+   "lang": "sk",
+   "value": "Anaxagoras z Klazomen",
+   "translations": [
+    {
+     "id": "1164",
+     "lang": "en",
+     "value": "Anaxagoras"
+    },
+    {
+     "id": "1164",
+     "lang": "de",
+     "value": "Anaxagoras"
+    }
+   ]
+  },
+  {
+   "id": "1165",
+   "lang": "sk",
+   "value": "Anaximandros",
+   "translations": [
+    {
+     "id": "1165",
+     "lang": "en",
+     "value": "Anaximander"
+    },
+    {
+     "id": "1165",
+     "lang": "de",
+     "value": "Anaximander"
+    }
+   ]
+  },
+  {
+   "id": "1166",
+   "lang": "sk",
+   "value": "Anaximenes z Milétu",
+   "translations": [
+    {
+     "id": "1166",
+     "lang": "en",
+     "value": "Anaximenes of Miletus"
+    },
+    {
+     "id": "1166",
+     "lang": "de",
+     "value": "Anaximenes"
+    }
+   ]
+  },
+  {
+   "id": "1167",
+   "lang": "sk",
+   "value": "Johann Valentin Andreae",
+   "translations": [
+    {
+     "id": "1167",
+     "lang": "en",
+     "value": "Johannes Valentinus Andreae"
+    },
+    {
+     "id": "1167",
+     "lang": "de",
+     "value": "Johann Valentin Andreae"
+    }
+   ]
+  },
+  {
+   "id": "1168",
+   "lang": "sk",
+   "value": "Angelus Silesius",
+   "translations": [
+    {
+     "id": "1168",
+     "lang": "en",
+     "value": "Angelus Silesius"
+    },
+    {
+     "id": "1168",
+     "lang": "de",
+     "value": "Angelus Silesius"
+    }
+   ]
+  },
+  {
+   "id": "1170",
+   "lang": "sk",
+   "value": "Peter Annet",
+   "translations": [
+    {
+     "id": "1170",
+     "lang": "en",
+     "value": "Peter Annet"
+    }
+   ]
+  },
+  {
+   "id": "1172",
+   "lang": "sk",
+   "value": "Gertrude Elizabeth Margaret Anscombová",
+   "translations": [
+    {
+     "id": "1172",
+     "lang": "en",
+     "value": "G. E. M. Anscombe"
+    },
+    {
+     "id": "1172",
+     "lang": "de",
+     "value": "Elizabeth Anscombe"
+    }
+   ]
+  },
+  {
+   "id": "1173",
+   "lang": "sk",
+   "value": "Antifón z Atén",
+   "translations": [
+    {
+     "id": "1173",
+     "lang": "en",
+     "value": "Sophistic works of Antiphon"
+    },
+    {
+     "id": "1173",
+     "lang": "de",
+     "value": "Antiphon (Sophist)"
+    }
+   ]
+  },
+  {
+   "id": "1174",
+   "lang": "sk",
+   "value": "Peter Antes",
+   "translations": [
+    {
+     "id": "1174",
+     "lang": "de",
+     "value": "Peter Antes"
+    }
+   ]
+  },
+  {
+   "id": "1175",
+   "lang": "sk",
+   "value": "Antiochos z Askalónu",
+   "translations": [
+    {
+     "id": "1175",
+     "lang": "en",
+     "value": "Antiochus of Ascalon"
+    },
+    {
+     "id": "1175",
+     "lang": "de",
+     "value": "Antiochos von Askalon"
+    }
+   ]
+  },
+  {
+   "id": "1176",
+   "lang": "sk",
+   "value": "Maxim Alexejevič Antonovič",
+   "translations": [
+    {
+     "id": "1176",
+     "lang": "en",
+     "value": "Maxim Antonovich"
+    }
+   ]
+  },
+  {
+   "id": "1177",
+   "lang": "sk",
+   "value": "Arno Anzenbacher",
+   "translations": [
+    {
+     "id": "1177",
+     "lang": "de",
+     "value": "Arno Anzenbacher"
+    }
+   ]
+  },
+  {
+   "id": "1178",
+   "lang": "sk",
+   "value": "Karl Otto Apel",
+   "translations": [
+    {
+     "id": "1178",
+     "lang": "en",
+     "value": "Karl-Otto Apel"
+    },
+    {
+     "id": "1178",
+     "lang": "de",
+     "value": "Karl-Otto Apel"
+    }
+   ]
+  },
+  {
+   "id": "1179",
+   "lang": "sk",
+   "value": "Apollodóros z Atén (filozof)",
+   "translations": [
+    {
+     "id": "1179",
+     "lang": "en",
+     "value": "Apollodorus of Athens"
+    },
+    {
+     "id": "1179",
+     "lang": "de",
+     "value": "Apollodor von Athen (Schriftsteller)"
+    }
+   ]
+  },
+  {
+   "id": "1180",
+   "lang": "sk",
+   "value": "Apollónios z Tyany",
+   "translations": [
+    {
+     "id": "1180",
+     "lang": "en",
+     "value": "Apollonius of Tyana"
+    },
+    {
+     "id": "1180",
+     "lang": "de",
+     "value": "Apollonios von Tyana"
+    }
+   ]
+  },
+  {
+   "id": "1181",
+   "lang": "sk",
+   "value": "Hannah Arendtová",
+   "translations": [
+    {
+     "id": "1181",
+     "lang": "en",
+     "value": "Hannah Arendt"
+    },
+    {
+     "id": "1181",
+     "lang": "de",
+     "value": "Hannah Arendt"
+    }
+   ]
+  },
+  {
+   "id": "1182",
+   "lang": "sk",
+   "value": "Archytas z Tarenta",
+   "translations": [
+    {
+     "id": "1182",
+     "lang": "en",
+     "value": "Archytas"
+    },
+    {
+     "id": "1182",
+     "lang": "de",
+     "value": "Archytas von Tarent"
+    }
+   ]
+  },
+  {
+   "id": "1183",
+   "lang": "sk",
+   "value": "Aristarchos zo Samu",
+   "translations": [
+    {
+     "id": "1183",
+     "lang": "en",
+     "value": "Aristarchus of Samos"
+    },
+    {
+     "id": "1183",
+     "lang": "de",
+     "value": "Aristarchos von Samos"
+    }
+   ]
+  },
+  {
+   "id": "1184",
+   "lang": "sk",
+   "value": "Aristippos z Kyrény",
+   "translations": [
+    {
+     "id": "1184",
+     "lang": "en",
+     "value": "Aristippus"
+    },
+    {
+     "id": "1184",
+     "lang": "de",
+     "value": "Aristippos von Kyrene"
+    }
+   ]
+  },
+  {
+   "id": "1185",
+   "lang": "sk",
+   "value": "Arkesilaos z Pitany",
+   "translations": [
+    {
+     "id": "1185",
+     "lang": "en",
+     "value": "Arcesilaus"
+    },
+    {
+     "id": "1185",
+     "lang": "de",
+     "value": "Arkesilaos"
+    }
+   ]
+  },
+  {
+   "id": "1186",
+   "lang": "sk",
+   "value": "Antoine Arnauld",
+   "translations": [
+    {
+     "id": "1186",
+     "lang": "en",
+     "value": "Antoine Arnauld"
+    },
+    {
+     "id": "1186",
+     "lang": "de",
+     "value": "Antoine Arnauld"
+    }
+   ]
+  },
+  {
+   "id": "1187",
+   "lang": "sk",
+   "value": "Hans von Arnim",
+   "translations": [
+    {
+     "id": "1187",
+     "lang": "en",
+     "value": "Hans von Arnim"
+    },
+    {
+     "id": "1187",
+     "lang": "de",
+     "value": "Hans von Arnim (Philologe)"
+    }
+   ]
+  },
+  {
+   "id": "1188",
+   "lang": "sk",
+   "value": "Raymond Aron",
+   "translations": [
+    {
+     "id": "1188",
+     "lang": "en",
+     "value": "Raymond Aron"
+    },
+    {
+     "id": "1188",
+     "lang": "de",
+     "value": "Raymond Aron"
+    }
+   ]
+  },
+  {
+   "id": "1189",
+   "lang": "sk",
+   "value": "Atanáz Alexandrijský",
+   "translations": [
+    {
+     "id": "1189",
+     "lang": "en",
+     "value": "Athanasius of Alexandria"
+    },
+    {
+     "id": "1189",
+     "lang": "de",
+     "value": "Athanasius der Große"
+    }
+   ]
+  },
+  {
+   "id": "1191",
+   "lang": "sk",
+   "value": "Šrí Aurobindo",
+   "translations": [
+    {
+     "id": "1191",
+     "lang": "en",
+     "value": "Sri Aurobindo"
+    },
+    {
+     "id": "1191",
+     "lang": "de",
+     "value": "Aurobindo Ghose"
+    }
+   ]
+  },
+  {
+   "id": "1192",
+   "lang": "sk",
+   "value": "John Langshaw Austin",
+   "translations": [
+    {
+     "id": "1192",
+     "lang": "en",
+     "value": "J. L. Austin"
+    },
+    {
+     "id": "1192",
+     "lang": "de",
+     "value": "John Langshaw Austin"
+    }
+   ]
+  },
+  {
+   "id": "1193",
+   "lang": "sk",
+   "value": "Richard Heinrich Avenarius",
+   "translations": [
+    {
+     "id": "1193",
+     "lang": "en",
+     "value": "Richard Avenarius"
+    },
+    {
+     "id": "1193",
+     "lang": "de",
+     "value": "Richard Avenarius"
+    }
+   ]
+  },
+  {
+   "id": "1194",
+   "lang": "sk",
+   "value": "Ibn Rušd",
+   "translations": [
+    {
+     "id": "1194",
+     "lang": "en",
+     "value": "Averroes"
+    },
+    {
+     "id": "1194",
+     "lang": "de",
+     "value": "Averroes"
+    }
+   ]
+  },
+  {
+   "id": "1195",
+   "lang": "sk",
+   "value": "Kostas Axelos",
+   "translations": [
+    {
+     "id": "1195",
+     "lang": "en",
+     "value": "Kostas Axelos"
+    },
+    {
+     "id": "1195",
+     "lang": "de",
+     "value": "Kostas Axelos"
+    }
+   ]
+  },
+  {
+   "id": "1196",
+   "lang": "sk",
+   "value": "Alfred Jules Ayer",
+   "translations": [
+    {
+     "id": "1196",
+     "lang": "en",
+     "value": "A. J. Ayer"
+    },
+    {
+     "id": "1196",
+     "lang": "de",
+     "value": "Alfred Jules Ayer"
+    }
+   ]
+  },
+  {
+   "id": "1197",
+   "lang": "sk",
+   "value": "Šlomo ibn Gabirol",
+   "translations": [
+    {
+     "id": "1197",
+     "lang": "en",
+     "value": "Solomon ibn Gabirol"
+    },
+    {
+     "id": "1197",
+     "lang": "de",
+     "value": "Solomon ibn Gabirol"
+    }
+   ]
+  },
+  {
+   "id": "1199",
+   "lang": "sk",
+   "value": "Avicenna",
+   "translations": [
+    {
+     "id": "1199",
+     "lang": "en",
+     "value": "Avicenna"
+    },
+    {
+     "id": "1199",
+     "lang": "de",
+     "value": "Avicenna"
+    }
+   ]
+  },
+  {
+   "id": "1220",
+   "lang": "sk",
+   "value": "Alberdi",
+   "translations": [
+    {
+     "id": "1220",
+     "lang": "en",
+     "value": "Alberdi"
+    },
+    {
+     "id": "1220",
+     "lang": "de",
+     "value": "Alberdi"
+    }
+   ]
+  },
+  {
+   "id": "1236",
+   "lang": "sk",
+   "value": "OpenOffice.org",
+   "translations": [
+    {
+     "id": "1236",
+     "lang": "en",
+     "value": "OpenOffice.org"
+    },
+    {
+     "id": "1236",
+     "lang": "de",
+     "value": "OpenOffice.org"
+    }
+   ]
+  },
+  {
+   "id": "1238",
+   "lang": "sk",
+   "value": "Baal-zebúb",
+   "translations": [
+    {
+     "id": "1238",
+     "lang": "en",
+     "value": "Beelzebub"
+    },
+    {
+     "id": "1238",
+     "lang": "de",
+     "value": "Beelzebub"
+    }
+   ]
+  },
+  {
+   "id": "1239",
+   "lang": "sk",
+   "value": "Franz Xaver von Baader",
+   "translations": [
+    {
+     "id": "1239",
+     "lang": "en",
+     "value": "Franz Xaver von Baader"
+    },
+    {
+     "id": "1239",
+     "lang": "de",
+     "value": "Franz von Baader"
+    }
+   ]
+  },
+  {
+   "id": "1241",
+   "lang": "sk",
+   "value": "Roger Bacon",
+   "translations": [
+    {
+     "id": "1241",
+     "lang": "en",
+     "value": "Roger Bacon"
+    },
+    {
+     "id": "1241",
+     "lang": "de",
+     "value": "Roger Bacon"
+    }
+   ]
+  },
+  {
+   "id": "1243",
+   "lang": "sk",
+   "value": "Karl Ernst von Baer",
+   "translations": [
+    {
+     "id": "1243",
+     "lang": "en",
+     "value": "Karl Ernst von Baer"
+    },
+    {
+     "id": "1243",
+     "lang": "de",
+     "value": "Karl Ernst von Baer"
+    }
+   ]
+  },
+  {
+   "id": "1244",
+   "lang": "sk",
+   "value": "Gaston Bachelard",
+   "translations": [
+    {
+     "id": "1244",
+     "lang": "en",
+     "value": "Gaston Bachelard"
+    },
+    {
+     "id": "1244",
+     "lang": "de",
+     "value": "Gaston Bachelard"
+    }
+   ]
+  },
+  {
+   "id": "1246",
+   "lang": "sk",
+   "value": "Michail Alexandrovič Bakunin",
+   "translations": [
+    {
+     "id": "1246",
+     "lang": "en",
+     "value": "Mikhail Bakunin"
+    },
+    {
+     "id": "1246",
+     "lang": "de",
+     "value": "Michail Alexandrowitsch Bakunin"
+    }
+   ]
+  },
+  {
+   "id": "1248",
+   "lang": "sk",
+   "value": "James Mark Baldwin",
+   "translations": [
+    {
+     "id": "1248",
+     "lang": "en",
+     "value": "James Mark Baldwin"
+    },
+    {
+     "id": "1248",
+     "lang": "de",
+     "value": "James Mark Baldwin"
+    }
+   ]
+  },
+  {
+   "id": "1249",
+   "lang": "sk",
+   "value": "Jaime Luciano Balmes",
+   "translations": [
+    {
+     "id": "1249",
+     "lang": "en",
+     "value": "Jaime Balmes"
+    }
+   ]
+  },
+  {
+   "id": "1250",
+   "lang": "sk",
+   "value": "Domingo Báñez",
+   "translations": [
+    {
+     "id": "1250",
+     "lang": "en",
+     "value": "Domingo Báñez"
+    },
+    {
+     "id": "1250",
+     "lang": "de",
+     "value": "Domingo Báñez"
+    }
+   ]
+  },
+  {
+   "id": "1251",
+   "lang": "sk",
+   "value": "Jehošua Bar-Hillel",
+   "translations": [
+    {
+     "id": "1251",
+     "lang": "en",
+     "value": "Yehoshua Bar-Hillel"
+    },
+    {
+     "id": "1251",
+     "lang": "de",
+     "value": "Jehoschua Bar-Hillel"
+    }
+   ]
+  },
+  {
+   "id": "1252",
+   "lang": "sk",
+   "value": "Štefan Barnáš",
+   "translations": [
+    {
+     "id": "1252",
+     "lang": "de",
+     "value": "Štefan Barnaš"
+    }
+   ]
+  },
+  {
+   "id": "1253",
+   "lang": "sk",
+   "value": "Karl Barth",
+   "translations": [
+    {
+     "id": "1253",
+     "lang": "en",
+     "value": "Karl Barth"
+    },
+    {
+     "id": "1253",
+     "lang": "de",
+     "value": "Karl Barth"
+    }
+   ]
+  },
+  {
+   "id": "1254",
+   "lang": "sk",
+   "value": "Roland Barthes",
+   "translations": [
+    {
+     "id": "1254",
+     "lang": "en",
+     "value": "Roland Barthes"
+    },
+    {
+     "id": "1254",
+     "lang": "de",
+     "value": "Roland Barthes"
+    }
+   ]
+  },
+  {
+   "id": "1255",
+   "lang": "sk",
+   "value": "Johann Bernhard Basedow",
+   "translations": [
+    {
+     "id": "1255",
+     "lang": "en",
+     "value": "Johann Bernhard Basedow"
+    },
+    {
+     "id": "1255",
+     "lang": "de",
+     "value": "Johann Bernhard Basedow"
+    }
+   ]
+  },
+  {
+   "id": "1256",
+   "lang": "sk",
+   "value": "Adolf Bastian",
+   "translations": [
+    {
+     "id": "1256",
+     "lang": "en",
+     "value": "Adolf Bastian"
+    },
+    {
+     "id": "1256",
+     "lang": "de",
+     "value": "Adolf Bastian"
+    }
+   ]
+  },
+  {
+   "id": "1257",
+   "lang": "sk",
+   "value": "Basilides z Antiochie",
+   "translations": [
+    {
+     "id": "1257",
+     "lang": "en",
+     "value": "Basilides"
+    },
+    {
+     "id": "1257",
+     "lang": "de",
+     "value": "Basilides (Gnostiker)"
+    }
+   ]
+  },
+  {
+   "id": "1258",
+   "lang": "sk",
+   "value": "Georges Bataille",
+   "translations": [
+    {
+     "id": "1258",
+     "lang": "en",
+     "value": "Georges Bataille"
+    },
+    {
+     "id": "1258",
+     "lang": "de",
+     "value": "Georges Bataille"
+    }
+   ]
+  },
+  {
+   "id": "1260",
+   "lang": "sk",
+   "value": "Jean Baudrillard",
+   "translations": [
+    {
+     "id": "1260",
+     "lang": "en",
+     "value": "Jean Baudrillard"
+    },
+    {
+     "id": "1260",
+     "lang": "de",
+     "value": "Jean Baudrillard"
+    }
+   ]
+  },
+  {
+   "id": "1261",
+   "lang": "sk",
+   "value": "Edgar Bauer",
+   "translations": [
+    {
+     "id": "1261",
+     "lang": "en",
+     "value": "Edgar Bauer"
+    },
+    {
+     "id": "1261",
+     "lang": "de",
+     "value": "Edgar Bauer"
+    }
+   ]
+  },
+  {
+   "id": "1262",
+   "lang": "sk",
+   "value": "Bruno Bauch",
+   "translations": [
+    {
+     "id": "1262",
+     "lang": "en",
+     "value": "Bruno Bauch"
+    },
+    {
+     "id": "1262",
+     "lang": "de",
+     "value": "Bruno Bauch"
+    }
+   ]
+  },
+  {
+   "id": "1263",
+   "lang": "sk",
+   "value": "Alexander Gottlieb Baumgarten",
+   "translations": [
+    {
+     "id": "1263",
+     "lang": "en",
+     "value": "Alexander Gottlieb Baumgarten"
+    },
+    {
+     "id": "1263",
+     "lang": "de",
+     "value": "Alexander Gottlieb Baumgarten"
+    }
+   ]
+  },
+  {
+   "id": "1265",
+   "lang": "sk",
+   "value": "Pierre Bayle",
+   "translations": [
+    {
+     "id": "1265",
+     "lang": "en",
+     "value": "Pierre Bayle"
+    },
+    {
+     "id": "1265",
+     "lang": "de",
+     "value": "Pierre Bayle"
+    }
+   ]
+  },
+  {
+   "id": "1267",
+   "lang": "sk",
+   "value": "Simone de Beauvoirová",
+   "translations": [
+    {
+     "id": "1267",
+     "lang": "en",
+     "value": "Simone de Beauvoir"
+    },
+    {
+     "id": "1267",
+     "lang": "de",
+     "value": "Simone de Beauvoir"
+    }
+   ]
+  },
+  {
+   "id": "1268",
+   "lang": "sk",
+   "value": "August Bebel",
+   "translations": [
+    {
+     "id": "1268",
+     "lang": "en",
+     "value": "August Bebel"
+    },
+    {
+     "id": "1268",
+     "lang": "de",
+     "value": "August Bebel"
+    }
+   ]
+  },
+  {
+   "id": "1269",
+   "lang": "sk",
+   "value": "Beda Venerabilis",
+   "translations": [
+    {
+     "id": "1269",
+     "lang": "en",
+     "value": "Bede"
+    },
+    {
+     "id": "1269",
+     "lang": "de",
+     "value": "Beda Venerabilis"
+    }
+   ]
+  },
+  {
+   "id": "1270",
+   "lang": "sk",
+   "value": "Matej Bel",
+   "translations": [
+    {
+     "id": "1270",
+     "lang": "en",
+     "value": "Matthias Bel"
+    },
+    {
+     "id": "1270",
+     "lang": "de",
+     "value": "Matthias Bel"
+    }
+   ]
+  },
+  {
+   "id": "1271",
+   "lang": "sk",
+   "value": "Vissarion Grigorievič Belinskij",
+   "translations": [
+    {
+     "id": "1271",
+     "lang": "en",
+     "value": "Vissarion Belinsky"
+    },
+    {
+     "id": "1271",
+     "lang": "de",
+     "value": "Wissarion Grigorjewitsch Belinski"
+    }
+   ]
+  },
+  {
+   "id": "1272",
+   "lang": "sk",
+   "value": "Daniel Bell",
+   "translations": [
+    {
+     "id": "1272",
+     "lang": "en",
+     "value": "Daniel Bell"
+    },
+    {
+     "id": "1272",
+     "lang": "de",
+     "value": "Daniel Bell (Soziologe)"
+    }
+   ]
+  },
+  {
+   "id": "1273",
+   "lang": "sk",
+   "value": "Václav Bělohradský",
+   "translations": [
+    {
+     "id": "1273",
+     "lang": "en",
+     "value": "Václav Bělohradský"
+    },
+    {
+     "id": "1273",
+     "lang": "de",
+     "value": "Václav Bělohradský"
+    }
+   ]
+  },
+  {
+   "id": "1275",
+   "lang": "sk",
+   "value": "Jonathan Bennett",
+   "translations": [
+    {
+     "id": "1275",
+     "lang": "en",
+     "value": "Jonathan Bennett (philosopher)"
+    }
+   ]
+  },
+  {
+   "id": "1276",
+   "lang": "sk",
+   "value": "Max Bense",
+   "translations": [
+    {
+     "id": "1276",
+     "lang": "en",
+     "value": "Max Bense"
+    },
+    {
+     "id": "1276",
+     "lang": "de",
+     "value": "Max Bense"
+    }
+   ]
+  },
+  {
+   "id": "1277",
+   "lang": "sk",
+   "value": "Jeremy Bentham",
+   "translations": [
+    {
+     "id": "1277",
+     "lang": "en",
+     "value": "Jeremy Bentham"
+    },
+    {
+     "id": "1277",
+     "lang": "de",
+     "value": "Jeremy Bentham"
+    }
+   ]
+  },
+  {
+   "id": "1278",
+   "lang": "sk",
+   "value": "Nikolaj Alexandrovič Berďajev",
+   "translations": [
+    {
+     "id": "1278",
+     "lang": "en",
+     "value": "Nikolai Berdyaev"
+    },
+    {
+     "id": "1278",
+     "lang": "de",
+     "value": "Nikolai Alexandrowitsch Berdjajew"
+    }
+   ]
+  },
+  {
+   "id": "1279",
+   "lang": "sk",
+   "value": "Roman Berger",
+   "translations": [
+    {
+     "id": "1279",
+     "lang": "de",
+     "value": "Roman Berger"
+    }
+   ]
+  },
+  {
+   "id": "1280",
+   "lang": "sk",
+   "value": "Gustav Bergmann",
+   "translations": [
+    {
+     "id": "1280",
+     "lang": "en",
+     "value": "Gustav Bergmann"
+    },
+    {
+     "id": "1280",
+     "lang": "de",
+     "value": "Gustav Bergmann (Wissenschaftstheoretiker)"
+    }
+   ]
+  },
+  {
+   "id": "1281",
+   "lang": "sk",
+   "value": "Henri Bergson",
+   "translations": [
+    {
+     "id": "1281",
+     "lang": "en",
+     "value": "Henri Bergson"
+    },
+    {
+     "id": "1281",
+     "lang": "de",
+     "value": "Henri Bergson"
+    }
+   ]
+  },
+  {
+   "id": "1282",
+   "lang": "sk",
+   "value": "George Berkeley",
+   "translations": [
+    {
+     "id": "1282",
+     "lang": "en",
+     "value": "George Berkeley"
+    },
+    {
+     "id": "1282",
+     "lang": "de",
+     "value": "George Berkeley"
+    }
+   ]
+  },
+  {
+   "id": "1283",
+   "lang": "sk",
+   "value": "Rudolph Berlinger",
+   "translations": [
+    {
+     "id": "1283",
+     "lang": "de",
+     "value": "Rudolph Berlinger"
+    }
+   ]
+  },
+  {
+   "id": "1284",
+   "lang": "sk",
+   "value": "John Desmond Bernal",
+   "translations": [
+    {
+     "id": "1284",
+     "lang": "en",
+     "value": "J. D. Bernal"
+    },
+    {
+     "id": "1284",
+     "lang": "de",
+     "value": "John Desmond Bernal"
+    }
+   ]
+  },
+  {
+   "id": "1285",
+   "lang": "sk",
+   "value": "Bernard z Clairvaux",
+   "translations": [
+    {
+     "id": "1285",
+     "lang": "en",
+     "value": "Bernard of Clairvaux"
+    },
+    {
+     "id": "1285",
+     "lang": "de",
+     "value": "Bernhard von Clairvaux"
+    }
+   ]
+  },
+  {
+   "id": "1286",
+   "lang": "sk",
+   "value": "Isaak Paul Bernays",
+   "translations": [
+    {
+     "id": "1286",
+     "lang": "en",
+     "value": "Paul Bernays"
+    },
+    {
+     "id": "1286",
+     "lang": "de",
+     "value": "Paul Bernays"
+    }
+   ]
+  },
+  {
+   "id": "1287",
+   "lang": "sk",
+   "value": "Eduard Bernstein",
+   "translations": [
+    {
+     "id": "1287",
+     "lang": "en",
+     "value": "Eduard Bernstein"
+    },
+    {
+     "id": "1287",
+     "lang": "de",
+     "value": "Eduard Bernstein"
+    }
+   ]
+  },
+  {
+   "id": "1288",
+   "lang": "sk",
+   "value": "Matematika",
+   "translations": [
+    {
+     "id": "1288",
+     "lang": "en",
+     "value": "Category:Mathematics"
+    },
+    {
+     "id": "1288",
+     "lang": "de",
+     "value": "Kategorie:Mathematik"
+    }
+   ]
+  },
+  {
+   "id": "1289",
+   "lang": "sk",
+   "value": "Henri Berr",
+   "translations": [
+    {
+     "id": "1289",
+     "lang": "en",
+     "value": "Henri Berr"
+    },
+    {
+     "id": "1289",
+     "lang": "de",
+     "value": "Henri Berr"
+    }
+   ]
+  },
+  {
+   "id": "1290",
+   "lang": "sk",
+   "value": "Ludwig von Bertalanffy",
+   "translations": [
+    {
+     "id": "1290",
+     "lang": "en",
+     "value": "Ludwig von Bertalanffy"
+    },
+    {
+     "id": "1290",
+     "lang": "de",
+     "value": "Ludwig von Bertalanffy"
+    }
+   ]
+  },
+  {
+   "id": "1291",
+   "lang": "sk",
+   "value": "Emilio Betti",
+   "translations": [
+    {
+     "id": "1291",
+     "lang": "en",
+     "value": "Emilio Betti"
+    }
+   ]
+  },
+  {
+   "id": "1292",
+   "lang": "sk",
+   "value": "Walter Biemel",
+   "translations": [
+    {
+     "id": "1292",
+     "lang": "de",
+     "value": "Walter Biemel"
+    }
+   ]
+  },
+  {
+   "id": "1293",
+   "lang": "sk",
+   "value": "Bias z Priény",
+   "translations": [
+    {
+     "id": "1293",
+     "lang": "en",
+     "value": "Bias of Priene"
+    },
+    {
+     "id": "1293",
+     "lang": "de",
+     "value": "Bias von Priene"
+    }
+   ]
+  },
+  {
+   "id": "1294",
+   "lang": "sk",
+   "value": "Ludwig Binswanger",
+   "translations": [
+    {
+     "id": "1294",
+     "lang": "en",
+     "value": "Ludwig Binswanger"
+    },
+    {
+     "id": "1294",
+     "lang": "de",
+     "value": "Ludwig Binswanger"
+    }
+   ]
+  },
+  {
+   "id": "1295",
+   "lang": "sk",
+   "value": "Max Black",
+   "translations": [
+    {
+     "id": "1295",
+     "lang": "en",
+     "value": "Max Black"
+    },
+    {
+     "id": "1295",
+     "lang": "de",
+     "value": "Max Black"
+    }
+   ]
+  },
+  {
+   "id": "1296",
+   "lang": "sk",
+   "value": "Eugene Bleuler",
+   "translations": [
+    {
+     "id": "1296",
+     "lang": "en",
+     "value": "Eugen Bleuler"
+    },
+    {
+     "id": "1296",
+     "lang": "de",
+     "value": "Eugen Bleuler"
+    }
+   ]
+  },
+  {
+   "id": "1297",
+   "lang": "sk",
+   "value": "Ernst Bloch",
+   "translations": [
+    {
+     "id": "1297",
+     "lang": "en",
+     "value": "Ernst Bloch"
+    },
+    {
+     "id": "1297",
+     "lang": "de",
+     "value": "Ernst Bloch"
+    }
+   ]
+  },
+  {
+   "id": "1298",
+   "lang": "sk",
+   "value": "Marc Bloch",
+   "translations": [
+    {
+     "id": "1298",
+     "lang": "en",
+     "value": "Marc Bloch"
+    },
+    {
+     "id": "1298",
+     "lang": "de",
+     "value": "Marc Bloch"
+    }
+   ]
+  },
+  {
+   "id": "1299",
+   "lang": "sk",
+   "value": "Maurice Blondel",
+   "translations": [
+    {
+     "id": "1299",
+     "lang": "en",
+     "value": "Maurice Blondel"
+    },
+    {
+     "id": "1299",
+     "lang": "de",
+     "value": "Maurice Blondel"
+    }
+   ]
+  },
+  {
+   "id": "1300",
+   "lang": "sk",
+   "value": "Hans Blumenberg",
+   "translations": [
+    {
+     "id": "1300",
+     "lang": "en",
+     "value": "Hans Blumenberg"
+    },
+    {
+     "id": "1300",
+     "lang": "de",
+     "value": "Hans Blumenberg"
+    }
+   ]
+  },
+  {
+   "id": "1302",
+   "lang": "sk",
+   "value": "Bódhidharma",
+   "translations": [
+    {
+     "id": "1302",
+     "lang": "en",
+     "value": "Bodhidharma"
+    },
+    {
+     "id": "1302",
+     "lang": "de",
+     "value": "Bodhidharma"
+    }
+   ]
+  },
+  {
+   "id": "1304",
+   "lang": "sk",
+   "value": "Rudolf Boehm",
+   "translations": [
+    {
+     "id": "1304",
+     "lang": "de",
+     "value": "Rudolf Boehm (Philosoph)"
+    }
+   ]
+  },
+  {
+   "id": "1305",
+   "lang": "sk",
+   "value": "Boethius",
+   "translations": [
+    {
+     "id": "1305",
+     "lang": "en",
+     "value": "Boethius"
+    },
+    {
+     "id": "1305",
+     "lang": "de",
+     "value": "Boethius"
+    }
+   ]
+  },
+  {
+   "id": "1306",
+   "lang": "sk",
+   "value": "Boetius de Dacia",
+   "translations": [
+    {
+     "id": "1306",
+     "lang": "en",
+     "value": "Boetius of Dacia"
+    },
+    {
+     "id": "1306",
+     "lang": "de",
+     "value": "Boetius von Dacien"
+    }
+   ]
+  },
+  {
+   "id": "1307",
+   "lang": "sk",
+   "value": "Alexandr Alexandrovič Bogdanov",
+   "translations": [
+    {
+     "id": "1307",
+     "lang": "en",
+     "value": "Alexander Bogdanov"
+    },
+    {
+     "id": "1307",
+     "lang": "de",
+     "value": "Alexander Alexandrowitsch Bogdanow"
+    }
+   ]
+  },
+  {
+   "id": "1308",
+   "lang": "sk",
+   "value": "Jakob Böhme",
+   "translations": [
+    {
+     "id": "1308",
+     "lang": "en",
+     "value": "Jakob Böhme"
+    },
+    {
+     "id": "1308",
+     "lang": "de",
+     "value": "Jakob Böhme"
+    }
+   ]
+  },
+  {
+   "id": "1310",
+   "lang": "sk",
+   "value": "Józef Maria Bocheński",
+   "translations": [
+    {
+     "id": "1310",
+     "lang": "en",
+     "value": "Józef Maria Bocheński"
+    },
+    {
+     "id": "1310",
+     "lang": "de",
+     "value": "Joseph Maria Bocheński"
+    }
+   ]
+  },
+  {
+   "id": "1311",
+   "lang": "sk",
+   "value": "Nicolas Boileau",
+   "translations": [
+    {
+     "id": "1311",
+     "lang": "en",
+     "value": "Nicolas Boileau-Despréaux"
+    },
+    {
+     "id": "1311",
+     "lang": "de",
+     "value": "Nicolas Boileau"
+    }
+   ]
+  },
+  {
+   "id": "1312",
+   "lang": "sk",
+   "value": "Otto Friedrich Bollnow",
+   "translations": [
+    {
+     "id": "1312",
+     "lang": "en",
+     "value": "Otto Friedrich Bollnow"
+    },
+    {
+     "id": "1312",
+     "lang": "de",
+     "value": "Otto Friedrich Bollnow"
+    }
+   ]
+  },
+  {
+   "id": "1313",
+   "lang": "sk",
+   "value": "Bonaventúra",
+   "translations": [
+    {
+     "id": "1313",
+     "lang": "en",
+     "value": "Bonaventure"
+    },
+    {
+     "id": "1313",
+     "lang": "de",
+     "value": "Bonaventura"
+    }
+   ]
+  },
+  {
+   "id": "1314",
+   "lang": "sk",
+   "value": "Jacques-Bénigne Bossuet",
+   "translations": [
+    {
+     "id": "1314",
+     "lang": "en",
+     "value": "Jacques-Bénigne Bossuet"
+    },
+    {
+     "id": "1314",
+     "lang": "de",
+     "value": "Jacques Bénigne Bossuet"
+    }
+   ]
+  },
+  {
+   "id": "1316",
+   "lang": "sk",
+   "value": "Christo Botev",
+   "translations": [
+    {
+     "id": "1316",
+     "lang": "en",
+     "value": "Hristo Botev"
+    },
+    {
+     "id": "1316",
+     "lang": "de",
+     "value": "Christo Botew"
+    }
+   ]
+  },
+  {
+   "id": "1317",
+   "lang": "sk",
+   "value": "Francis Herbert Bradley",
+   "translations": [
+    {
+     "id": "1317",
+     "lang": "en",
+     "value": "F. H. Bradley"
+    },
+    {
+     "id": "1317",
+     "lang": "de",
+     "value": "Francis Herbert Bradley"
+    }
+   ]
+  },
+  {
+   "id": "1318",
+   "lang": "sk",
+   "value": "Gerd Brand",
+   "translations": [
+    {
+     "id": "1318",
+     "lang": "de",
+     "value": "Gerd Brand (Philosoph)"
+    }
+   ]
+  },
+  {
+   "id": "1319",
+   "lang": "sk",
+   "value": "Fernand Braudel",
+   "translations": [
+    {
+     "id": "1319",
+     "lang": "en",
+     "value": "Fernand Braudel"
+    },
+    {
+     "id": "1319",
+     "lang": "de",
+     "value": "Fernand Braudel"
+    }
+   ]
+  },
+  {
+   "id": "1320",
+   "lang": "sk",
+   "value": "John Francis Bray",
+   "translations": [
+    {
+     "id": "1320",
+     "lang": "en",
+     "value": "John Francis Bray"
+    }
+   ]
+  },
+  {
+   "id": "1321",
+   "lang": "sk",
+   "value": "Michel Bréal",
+   "translations": [
+    {
+     "id": "1321",
+     "lang": "en",
+     "value": "Michel Bréal"
+    },
+    {
+     "id": "1321",
+     "lang": "de",
+     "value": "Michel Bréal"
+    }
+   ]
+  },
+  {
+   "id": "1322",
+   "lang": "sk",
+   "value": "Franz Brentano",
+   "translations": [
+    {
+     "id": "1322",
+     "lang": "en",
+     "value": "Franz Brentano"
+    },
+    {
+     "id": "1322",
+     "lang": "de",
+     "value": "Franz Brentano"
+    }
+   ]
+  },
+  {
+   "id": "1323",
+   "lang": "sk",
+   "value": "Charlie Dunbar Broad",
+   "translations": [
+    {
+     "id": "1323",
+     "lang": "en",
+     "value": "C. D. Broad"
+    },
+    {
+     "id": "1323",
+     "lang": "de",
+     "value": "C. D. Broad"
+    }
+   ]
+  },
+  {
+   "id": "1324",
+   "lang": "sk",
+   "value": "Luitzen Egbertus Jan Brouwer",
+   "translations": [
+    {
+     "id": "1324",
+     "lang": "en",
+     "value": "L. E. J. Brouwer"
+    },
+    {
+     "id": "1324",
+     "lang": "de",
+     "value": "Luitzen Egbertus Jan Brouwer"
+    }
+   ]
+  },
+  {
+   "id": "1326",
+   "lang": "sk",
+   "value": "Thomas Brown",
+   "translations": [
+    {
+     "id": "1326",
+     "lang": "en",
+     "value": "Thomas Brown (philosopher)"
+    }
+   ]
+  },
+  {
+   "id": "1327",
+   "lang": "sk",
+   "value": "Giordano Bruno",
+   "translations": [
+    {
+     "id": "1327",
+     "lang": "en",
+     "value": "Giordano Bruno"
+    },
+    {
+     "id": "1327",
+     "lang": "de",
+     "value": "Giordano Bruno"
+    }
+   ]
+  },
+  {
+   "id": "1328",
+   "lang": "sk",
+   "value": "Léon Brunschvicg",
+   "translations": [
+    {
+     "id": "1328",
+     "lang": "en",
+     "value": "Léon Brunschvicg"
+    },
+    {
+     "id": "1328",
+     "lang": "de",
+     "value": "Léon Brunschvicg"
+    }
+   ]
+  },
+  {
+   "id": "1329",
+   "lang": "sk",
+   "value": "Martin Buber",
+   "translations": [
+    {
+     "id": "1329",
+     "lang": "en",
+     "value": "Martin Buber"
+    },
+    {
+     "id": "1329",
+     "lang": "de",
+     "value": "Martin Buber"
+    }
+   ]
+  },
+  {
+   "id": "1330",
+   "lang": "sk",
+   "value": "Henry Thomas Buckle",
+   "translations": [
+    {
+     "id": "1330",
+     "lang": "en",
+     "value": "Henry Thomas Buckle"
+    },
+    {
+     "id": "1330",
+     "lang": "de",
+     "value": "Henry Thomas Buckle"
+    }
+   ]
+  },
+  {
+   "id": "1331",
+   "lang": "sk",
+   "value": "Sergej Nikolajevič Bulgakov",
+   "translations": [
+    {
+     "id": "1331",
+     "lang": "en",
+     "value": "Sergei Bulgakov"
+    },
+    {
+     "id": "1331",
+     "lang": "de",
+     "value": "Sergei Nikolajewitsch Bulgakow"
+    }
+   ]
+  },
+  {
+   "id": "1332",
+   "lang": "sk",
+   "value": "Rudolf Bultmann",
+   "translations": [
+    {
+     "id": "1332",
+     "lang": "en",
+     "value": "Rudolf Bultmann"
+    },
+    {
+     "id": "1332",
+     "lang": "de",
+     "value": "Rudolf Bultmann"
+    }
+   ]
+  },
+  {
+   "id": "1333",
+   "lang": "sk",
+   "value": "Mario Augusto Bunge",
+   "translations": [
+    {
+     "id": "1333",
+     "lang": "en",
+     "value": "Mario Bunge"
+    },
+    {
+     "id": "1333",
+     "lang": "de",
+     "value": "Mario Bunge"
+    }
+   ]
+  },
+  {
+   "id": "1336",
+   "lang": "sk",
+   "value": "Jean Buridan",
+   "translations": [
+    {
+     "id": "1336",
+     "lang": "en",
+     "value": "Jean Buridan"
+    },
+    {
+     "id": "1336",
+     "lang": "de",
+     "value": "Johannes Buridan"
+    }
+   ]
+  },
+  {
+   "id": "1337",
+   "lang": "sk",
+   "value": "Edmund Burke",
+   "translations": [
+    {
+     "id": "1337",
+     "lang": "en",
+     "value": "Edmund Burke"
+    },
+    {
+     "id": "1337",
+     "lang": "de",
+     "value": "Edmund Burke"
+    }
+   ]
+  },
+  {
+   "id": "1339",
+   "lang": "sk",
+   "value": "Walter Burley",
+   "translations": [
+    {
+     "id": "1339",
+     "lang": "en",
+     "value": "Walter Burley"
+    },
+    {
+     "id": "1339",
+     "lang": "de",
+     "value": "Walter Burley"
+    }
+   ]
+  },
+  {
+   "id": "1341",
+   "lang": "sk",
+   "value": "Karl L. Bühler",
+   "translations": [
+    {
+     "id": "1341",
+     "lang": "en",
+     "value": "Karl Bühler"
+    },
+    {
+     "id": "1341",
+     "lang": "de",
+     "value": "Karl Bühler"
+    }
+   ]
+  },
+  {
+   "id": "1342",
+   "lang": "sk",
+   "value": "Zoznam významných matematikov",
+   "translations": [
+    {
+     "id": "1342",
+     "lang": "en",
+     "value": "List of mathematicians"
+    },
+    {
+     "id": "1342",
+     "lang": "de",
+     "value": "Liste bedeutender Mathematiker"
+    }
+   ]
+  },
+  {
+   "id": "1413",
+   "lang": "sk",
+   "value": "Ján Čaplovič (etnograf)",
+   "translations": [
+    {
+     "id": "1413",
+     "lang": "de",
+     "value": "Johann von Csaplovics"
+    }
+   ]
+  },
+  {
+   "id": "1415",
+   "lang": "sk",
+   "value": "Ču Si",
+   "translations": [
+    {
+     "id": "1415",
+     "lang": "en",
+     "value": "Zhu Xi"
+    },
+    {
+     "id": "1415",
+     "lang": "de",
+     "value": "Zhu Xi"
+    }
+   ]
+  },
+  {
+   "id": "1417",
+   "lang": "sk",
+   "value": "Arthur Danto",
+   "translations": [
+    {
+     "id": "1417",
+     "lang": "en",
+     "value": "Arthur Danto"
+    },
+    {
+     "id": "1417",
+     "lang": "de",
+     "value": "Arthur C. Danto"
+    }
+   ]
+  },
+  {
+   "id": "1418",
+   "lang": "sk",
+   "value": "Charles Darwin",
+   "translations": [
+    {
+     "id": "1418",
+     "lang": "en",
+     "value": "Charles Darwin"
+    },
+    {
+     "id": "1418",
+     "lang": "de",
+     "value": "Charles Darwin"
+    }
+   ]
+  },
+  {
+   "id": "1419",
+   "lang": "sk",
+   "value": "Luciano De Crescenzo",
+   "translations": [
+    {
+     "id": "1419",
+     "lang": "en",
+     "value": "Luciano De Crescenzo"
+    }
+   ]
+  },
+  {
+   "id": "1420",
+   "lang": "sk",
+   "value": "Augustus De Morgan",
+   "translations": [
+    {
+     "id": "1420",
+     "lang": "en",
+     "value": "Augustus De Morgan"
+    },
+    {
+     "id": "1420",
+     "lang": "de",
+     "value": "Augustus De Morgan"
+    }
+   ]
+  },
+  {
+   "id": "1421",
+   "lang": "sk",
+   "value": "Gilles Deleuze",
+   "translations": [
+    {
+     "id": "1421",
+     "lang": "en",
+     "value": "Gilles Deleuze"
+    },
+    {
+     "id": "1421",
+     "lang": "de",
+     "value": "Gilles Deleuze"
+    }
+   ]
+  },
+  {
+   "id": "1422",
+   "lang": "sk",
+   "value": "Daniel Dennett",
+   "translations": [
+    {
+     "id": "1422",
+     "lang": "en",
+     "value": "Daniel Dennett"
+    },
+    {
+     "id": "1422",
+     "lang": "de",
+     "value": "Daniel Dennett"
+    }
+   ]
+  },
+  {
+   "id": "1423",
+   "lang": "sk",
+   "value": "Derkylides",
+   "translations": [
+    {
+     "id": "1423",
+     "lang": "de",
+     "value": "Derkylides"
+    }
+   ]
+  },
+  {
+   "id": "1424",
+   "lang": "sk",
+   "value": "Jacques Derrida",
+   "translations": [
+    {
+     "id": "1424",
+     "lang": "en",
+     "value": "Jacques Derrida"
+    },
+    {
+     "id": "1424",
+     "lang": "de",
+     "value": "Jacques Derrida"
+    }
+   ]
+  },
+  {
+   "id": "1426",
+   "lang": "sk",
+   "value": "René Descartes",
+   "translations": [
+    {
+     "id": "1426",
+     "lang": "en",
+     "value": "René Descartes"
+    },
+    {
+     "id": "1426",
+     "lang": "de",
+     "value": "René Descartes"
+    }
+   ]
+  },
+  {
+   "id": "1427",
+   "lang": "sk",
+   "value": "Vincent Descombes",
+   "translations": [
+    {
+     "id": "1427",
+     "lang": "en",
+     "value": "Vincent Descombes"
+    },
+    {
+     "id": "1427",
+     "lang": "de",
+     "value": "Vincent Descombes"
+    }
+   ]
+  },
+  {
+   "id": "1428",
+   "lang": "sk",
+   "value": "John Dewey",
+   "translations": [
+    {
+     "id": "1428",
+     "lang": "en",
+     "value": "John Dewey"
+    },
+    {
+     "id": "1428",
+     "lang": "de",
+     "value": "John Dewey"
+    }
+   ]
+  },
+  {
+   "id": "1429",
+   "lang": "sk",
+   "value": "Denis Diderot",
+   "translations": [
+    {
+     "id": "1429",
+     "lang": "en",
+     "value": "Denis Diderot"
+    },
+    {
+     "id": "1429",
+     "lang": "de",
+     "value": "Denis Diderot"
+    }
+   ]
+  },
+  {
+   "id": "1430",
+   "lang": "sk",
+   "value": "Hermann Diels",
+   "translations": [
+    {
+     "id": "1430",
+     "lang": "en",
+     "value": "Hermann Alexander Diels"
+    },
+    {
+     "id": "1430",
+     "lang": "de",
+     "value": "Hermann Diels"
+    }
+   ]
+  },
+  {
+   "id": "1431",
+   "lang": "sk",
+   "value": "Hugo Dingler",
+   "translations": [
+    {
+     "id": "1431",
+     "lang": "en",
+     "value": "Hugo Dingler"
+    },
+    {
+     "id": "1431",
+     "lang": "de",
+     "value": "Hugo Dingler"
+    }
+   ]
+  },
+  {
+   "id": "1432",
+   "lang": "sk",
+   "value": "Wilhelm Dilthey",
+   "translations": [
+    {
+     "id": "1432",
+     "lang": "en",
+     "value": "Wilhelm Dilthey"
+    },
+    {
+     "id": "1432",
+     "lang": "de",
+     "value": "Wilhelm Dilthey"
+    }
+   ]
+  },
+  {
+   "id": "1433",
+   "lang": "sk",
+   "value": "Diogenes Laertios",
+   "translations": [
+    {
+     "id": "1433",
+     "lang": "en",
+     "value": "Diogenes Laërtius"
+    },
+    {
+     "id": "1433",
+     "lang": "de",
+     "value": "Diogenes Laertios"
+    }
+   ]
+  },
+  {
+   "id": "1434",
+   "lang": "sk",
+   "value": "Pseudo-Dionýzios Areopagita",
+   "translations": [
+    {
+     "id": "1434",
+     "lang": "en",
+     "value": "Pseudo-Dionysius the Areopagite"
+    },
+    {
+     "id": "1434",
+     "lang": "de",
+     "value": "Pseudo-Dionysius Areopagita"
+    }
+   ]
+  },
+  {
+   "id": "1435",
+   "lang": "sk",
+   "value": "Theodosius Dobzhansky",
+   "translations": [
+    {
+     "id": "1435",
+     "lang": "en",
+     "value": "Theodosius Dobzhansky"
+    },
+    {
+     "id": "1435",
+     "lang": "de",
+     "value": "Theodosius Dobzhansky"
+    }
+   ]
+  },
+  {
+   "id": "1436",
+   "lang": "sk",
+   "value": "Fiodor Michajlovič Dostojevskij",
+   "translations": [
+    {
+     "id": "1436",
+     "lang": "en",
+     "value": "Fyodor Dostoevsky"
+    },
+    {
+     "id": "1436",
+     "lang": "de",
+     "value": "Fjodor Michailowitsch Dostojewski"
+    }
+   ]
+  },
+  {
+   "id": "1437",
+   "lang": "sk",
+   "value": "Hans Driesch",
+   "translations": [
+    {
+     "id": "1437",
+     "lang": "en",
+     "value": "Hans Driesch"
+    },
+    {
+     "id": "1437",
+     "lang": "de",
+     "value": "Hans Driesch"
+    }
+   ]
+  },
+  {
+   "id": "1438",
+   "lang": "sk",
+   "value": "Johann Gustav Droysen",
+   "translations": [
+    {
+     "id": "1438",
+     "lang": "en",
+     "value": "Johann Gustav Droysen"
+    },
+    {
+     "id": "1438",
+     "lang": "de",
+     "value": "Johann Gustav Droysen"
+    }
+   ]
+  },
+  {
+   "id": "1439",
+   "lang": "sk",
+   "value": "Mikel Dufrenne",
+   "translations": [
+    {
+     "id": "1439",
+     "lang": "en",
+     "value": "Mikel Dufrenne"
+    }
+   ]
+  },
+  {
+   "id": "1442",
+   "lang": "sk",
+   "value": "Michael Anthony Eardley Dummett",
+   "translations": [
+    {
+     "id": "1442",
+     "lang": "en",
+     "value": "Michael Dummett"
+    },
+    {
+     "id": "1442",
+     "lang": "de",
+     "value": "Michael Dummett"
+    }
+   ]
+  },
+  {
+   "id": "1443",
+   "lang": "sk",
+   "value": "Ján Duns Scotus",
+   "translations": [
+    {
+     "id": "1443",
+     "lang": "en",
+     "value": "Duns Scotus"
+    },
+    {
+     "id": "1443",
+     "lang": "de",
+     "value": "Johannes Duns Scotus"
+    }
+   ]
+  },
+  {
+   "id": "1444",
+   "lang": "sk",
+   "value": "Émile Durkheim",
+   "translations": [
+    {
+     "id": "1444",
+     "lang": "en",
+     "value": "Émile Durkheim"
+    },
+    {
+     "id": "1444",
+     "lang": "de",
+     "value": "Émile Durkheim"
+    }
+   ]
+  },
+  {
+   "id": "1445",
+   "lang": "sk",
+   "value": "Max Dvořák",
+   "translations": [
+    {
+     "id": "1445",
+     "lang": "en",
+     "value": "Max Dvořák"
+    },
+    {
+     "id": "1445",
+     "lang": "de",
+     "value": "Max Dvořák"
+    }
+   ]
+  },
+  {
+   "id": "1446",
+   "lang": "sk",
+   "value": "Džaimini",
+   "translations": [
+    {
+     "id": "1446",
+     "lang": "en",
+     "value": "Jaimini"
+    }
+   ]
+  },
+  {
+   "id": "1452",
+   "lang": "sk",
+   "value": "Matematik",
+   "translations": [
+    {
+     "id": "1452",
+     "lang": "en",
+     "value": "Mathematician"
+    },
+    {
+     "id": "1452",
+     "lang": "de",
+     "value": "Mathematiker"
+    }
+   ]
+  },
+  {
+   "id": "1456",
+   "lang": "sk",
+   "value": "Pierre Jean Georges Cabanis",
+   "translations": [
+    {
+     "id": "1456",
+     "lang": "en",
+     "value": "Pierre Jean Georges Cabanis"
+    },
+    {
+     "id": "1456",
+     "lang": "de",
+     "value": "Pierre-Jean-Georges Cabanis"
+    }
+   ]
+  },
+  {
+   "id": "1458",
+   "lang": "sk",
+   "value": "Étienne Cabet",
+   "translations": [
+    {
+     "id": "1458",
+     "lang": "en",
+     "value": "Étienne Cabet"
+    },
+    {
+     "id": "1458",
+     "lang": "de",
+     "value": "Étienne Cabet"
+    }
+   ]
+  },
+  {
+   "id": "1459",
+   "lang": "sk",
+   "value": "John Cage",
+   "translations": [
+    {
+     "id": "1459",
+     "lang": "en",
+     "value": "John Cage"
+    },
+    {
+     "id": "1459",
+     "lang": "de",
+     "value": "John Cage"
+    }
+   ]
+  },
+  {
+   "id": "1460",
+   "lang": "sk",
+   "value": "Edward Caird",
+   "translations": [
+    {
+     "id": "1460",
+     "lang": "en",
+     "value": "Edward Caird"
+    },
+    {
+     "id": "1460",
+     "lang": "de",
+     "value": "Edward Caird"
+    }
+   ]
+  },
+  {
+   "id": "1462",
+   "lang": "sk",
+   "value": "Ján Kalvín",
+   "translations": [
+    {
+     "id": "1462",
+     "lang": "en",
+     "value": "John Calvin"
+    },
+    {
+     "id": "1462",
+     "lang": "de",
+     "value": "Johannes Calvin"
+    }
+   ]
+  },
+  {
+   "id": "1463",
+   "lang": "sk",
+   "value": "Tommaso Campanella",
+   "translations": [
+    {
+     "id": "1463",
+     "lang": "en",
+     "value": "Tommaso Campanella"
+    },
+    {
+     "id": "1463",
+     "lang": "de",
+     "value": "Tommaso Campanella"
+    }
+   ]
+  },
+  {
+   "id": "1464",
+   "lang": "sk",
+   "value": "Albert Camus",
+   "translations": [
+    {
+     "id": "1464",
+     "lang": "en",
+     "value": "Albert Camus"
+    },
+    {
+     "id": "1464",
+     "lang": "de",
+     "value": "Albert Camus"
+    }
+   ]
+  },
+  {
+   "id": "1465",
+   "lang": "sk",
+   "value": "Fritjof Capra",
+   "translations": [
+    {
+     "id": "1465",
+     "lang": "en",
+     "value": "Fritjof Capra"
+    },
+    {
+     "id": "1465",
+     "lang": "de",
+     "value": "Fritjof Capra"
+    }
+   ]
+  },
+  {
+   "id": "1466",
+   "lang": "sk",
+   "value": "Thomas Carlyle",
+   "translations": [
+    {
+     "id": "1466",
+     "lang": "en",
+     "value": "Thomas Carlyle"
+    },
+    {
+     "id": "1466",
+     "lang": "de",
+     "value": "Thomas Carlyle"
+    }
+   ]
+  },
+  {
+   "id": "1467",
+   "lang": "sk",
+   "value": "Rudolf Carnap",
+   "translations": [
+    {
+     "id": "1467",
+     "lang": "en",
+     "value": "Rudolf Carnap"
+    },
+    {
+     "id": "1467",
+     "lang": "de",
+     "value": "Rudolf Carnap"
+    }
+   ]
+  },
+  {
+   "id": "1469",
+   "lang": "sk",
+   "value": "Antonio Caso",
+   "translations": [
+    {
+     "id": "1469",
+     "lang": "en",
+     "value": "Antonio Caso Andrade"
+    },
+    {
+     "id": "1469",
+     "lang": "de",
+     "value": "Antonio Caso"
+    }
+   ]
+  },
+  {
+   "id": "1470",
+   "lang": "sk",
+   "value": "Ernst Cassirer",
+   "translations": [
+    {
+     "id": "1470",
+     "lang": "en",
+     "value": "Ernst Cassirer"
+    },
+    {
+     "id": "1470",
+     "lang": "de",
+     "value": "Ernst Cassirer"
+    }
+   ]
+  },
+  {
+   "id": "1471",
+   "lang": "sk",
+   "value": "Cornelius Castoriadis",
+   "translations": [
+    {
+     "id": "1471",
+     "lang": "en",
+     "value": "Cornelius Castoriadis"
+    },
+    {
+     "id": "1471",
+     "lang": "de",
+     "value": "Cornelius Castoriadis"
+    }
+   ]
+  },
+  {
+   "id": "1472",
+   "lang": "sk",
+   "value": "Cerintus",
+   "translations": [
+    {
+     "id": "1472",
+     "lang": "en",
+     "value": "Cerinthus"
+    },
+    {
+     "id": "1472",
+     "lang": "de",
+     "value": "Kerinth"
+    }
+   ]
+  },
+  {
+   "id": "1473",
+   "lang": "sk",
+   "value": "Michel de Certeau",
+   "translations": [
+    {
+     "id": "1473",
+     "lang": "en",
+     "value": "Michel de Certeau"
+    },
+    {
+     "id": "1473",
+     "lang": "de",
+     "value": "Michel de Certeau"
+    }
+   ]
+  },
+  {
+   "id": "1474",
+   "lang": "sk",
+   "value": "Marcus Tullius Cicero",
+   "translations": [
+    {
+     "id": "1474",
+     "lang": "en",
+     "value": "Cicero"
+    },
+    {
+     "id": "1474",
+     "lang": "de",
+     "value": "Marcus Tullius Cicero"
+    }
+   ]
+  },
+  {
+   "id": "1476",
+   "lang": "sk",
+   "value": "Konstantin Eduardovič Ciolkovskij",
+   "translations": [
+    {
+     "id": "1476",
+     "lang": "en",
+     "value": "Konstantin Tsiolkovsky"
+    },
+    {
+     "id": "1476",
+     "lang": "de",
+     "value": "Konstantin Eduardowitsch Ziolkowski"
+    }
+   ]
+  },
+  {
+   "id": "1477",
+   "lang": "sk",
+   "value": "Emil Cioran",
+   "translations": [
+    {
+     "id": "1477",
+     "lang": "en",
+     "value": "Emil Cioran"
+    },
+    {
+     "id": "1477",
+     "lang": "de",
+     "value": "Emil Cioran"
+    }
+   ]
+  },
+  {
+   "id": "1478",
+   "lang": "sk",
+   "value": "Samuel Clarke",
+   "translations": [
+    {
+     "id": "1478",
+     "lang": "en",
+     "value": "Samuel Clarke"
+    },
+    {
+     "id": "1478",
+     "lang": "de",
+     "value": "Samuel Clarke"
+    }
+   ]
+  },
+  {
+   "id": "1479",
+   "lang": "sk",
+   "value": "Johannes Clauberg",
+   "translations": [
+    {
+     "id": "1479",
+     "lang": "en",
+     "value": "Johannes Clauberg"
+    },
+    {
+     "id": "1479",
+     "lang": "de",
+     "value": "Johannes Clauberg"
+    }
+   ]
+  },
+  {
+   "id": "1480",
+   "lang": "sk",
+   "value": "Carl von Clausewitz",
+   "translations": [
+    {
+     "id": "1480",
+     "lang": "en",
+     "value": "Carl von Clausewitz"
+    },
+    {
+     "id": "1480",
+     "lang": "de",
+     "value": "Carl von Clausewitz"
+    }
+   ]
+  },
+  {
+   "id": "1482",
+   "lang": "sk",
+   "value": "Hermann Cohen",
+   "translations": [
+    {
+     "id": "1482",
+     "lang": "en",
+     "value": "Hermann Cohen"
+    },
+    {
+     "id": "1482",
+     "lang": "de",
+     "value": "Hermann Cohen"
+    }
+   ]
+  },
+  {
+   "id": "1483",
+   "lang": "sk",
+   "value": "Samuel Taylor Coleridge",
+   "translations": [
+    {
+     "id": "1483",
+     "lang": "en",
+     "value": "Samuel Taylor Coleridge"
+    },
+    {
+     "id": "1483",
+     "lang": "de",
+     "value": "Samuel Taylor Coleridge"
+    }
+   ]
+  },
+  {
+   "id": "1484",
+   "lang": "sk",
+   "value": "Robin George Collingwood",
+   "translations": [
+    {
+     "id": "1484",
+     "lang": "en",
+     "value": "R. G. Collingwood"
+    },
+    {
+     "id": "1484",
+     "lang": "de",
+     "value": "Robin George Collingwood"
+    }
+   ]
+  },
+  {
+   "id": "1485",
+   "lang": "sk",
+   "value": "Auguste Comte",
+   "translations": [
+    {
+     "id": "1485",
+     "lang": "en",
+     "value": "Auguste Comte"
+    },
+    {
+     "id": "1485",
+     "lang": "de",
+     "value": "Auguste Comte"
+    }
+   ]
+  },
+  {
+   "id": "1486",
+   "lang": "sk",
+   "value": "Etienne Bonnot de Condillac",
+   "translations": [
+    {
+     "id": "1486",
+     "lang": "en",
+     "value": "Étienne Bonnot de Condillac"
+    },
+    {
+     "id": "1486",
+     "lang": "de",
+     "value": "Étienne Bonnot de Condillac"
+    }
+   ]
+  },
+  {
+   "id": "1487",
+   "lang": "sk",
+   "value": "Jean Antoine Condorcet",
+   "translations": [
+    {
+     "id": "1487",
+     "lang": "en",
+     "value": "Marquis de Condorcet"
+    },
+    {
+     "id": "1487",
+     "lang": "de",
+     "value": "Marie Jean Antoine Nicolas Caritat, Marquis de Condorcet"
+    }
+   ]
+  },
+  {
+   "id": "1488",
+   "lang": "sk",
+   "value": "Hedwiga Conrad-Martiusová",
+   "translations": [
+    {
+     "id": "1488",
+     "lang": "en",
+     "value": "Hedwig Conrad-Martius"
+    },
+    {
+     "id": "1488",
+     "lang": "de",
+     "value": "Hedwig Conrad-Martius"
+    }
+   ]
+  },
+  {
+   "id": "1489",
+   "lang": "sk",
+   "value": "Vasile Conta",
+   "translations": [
+    {
+     "id": "1489",
+     "lang": "en",
+     "value": "Vasile Conta"
+    }
+   ]
+  },
+  {
+   "id": "1490",
+   "lang": "sk",
+   "value": "Frederick Copleston",
+   "translations": [
+    {
+     "id": "1490",
+     "lang": "en",
+     "value": "Frederick Copleston"
+    },
+    {
+     "id": "1490",
+     "lang": "de",
+     "value": "Frederick Copleston"
+    }
+   ]
+  },
+  {
+   "id": "1491",
+   "lang": "sk",
+   "value": "Emerich Coreth",
+   "translations": [
+    {
+     "id": "1491",
+     "lang": "en",
+     "value": "Emerich Coreth"
+    },
+    {
+     "id": "1491",
+     "lang": "de",
+     "value": "Emerich Coreth"
+    }
+   ]
+  },
+  {
+   "id": "1492",
+   "lang": "sk",
+   "value": "Richard Nicolaus Coudenhove-Kalergi",
+   "translations": [
+    {
+     "id": "1492",
+     "lang": "en",
+     "value": "Richard von Coudenhove-Kalergi"
+    },
+    {
+     "id": "1492",
+     "lang": "de",
+     "value": "Richard Nikolaus Coudenhove-Kalergi"
+    }
+   ]
+  }
+ ]
+}
