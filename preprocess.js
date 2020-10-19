@@ -11,6 +11,8 @@ const dataSKFromDE = require('./data/dataDEfromENlinks.json')
                 "lang": "en",
                 "value": "dog"
                 },
+
+ * parseIntoSeparateFiles('de', './data/dataDEfromENlinks.json', './data/enwiki-latest-langlinks.sql');
  * */ 
 async function parseIntoSeparateFiles(lang, pathToWrite, pathToRead) {
     const readable = fs.createReadStream(pathToRead, { encoding: 'utf8' });
@@ -28,7 +30,7 @@ async function parseIntoSeparateFiles(lang, pathToWrite, pathToRead) {
             let value = {
                 'id': m[2],
                 'lang': m[3],
-                'value': m[4].split(':').length === 1 ? m[4].split(':')[0] : m[4].split(':')[1] //lemantizaciu
+                'value': removeCategory(m[4])            
             }
 
             dictionary[m[2]] = value
@@ -39,16 +41,12 @@ async function parseIntoSeparateFiles(lang, pathToWrite, pathToRead) {
     file.end();
 }
 
-// de, sk from enkiwi-latest-langlinks 
-parseIntoSeparateFiles('de', './data/dataDEfromENlinks.json', './data/enwiki-latest-langlinks.sql');
-parseIntoSeparateFiles('sk', './data/dataSKfromENlinks.json', './data/enwiki-latest-langlinks.sql');
-
 /** 
  * Input: (648546,0,'Pes',' ',1,1,0.14416983927,'20200530084510','20200408190135',7013769,32,'wikitext',NULL)
  * Output: {
    "id": "670",
    "lang": "en",
-   "value": "Pes",
+   "value": "Dog",
    "translations": [
     {
      "id": "670",
@@ -62,6 +60,7 @@ parseIntoSeparateFiles('sk', './data/dataSKfromENlinks.json', './data/enwiki-lat
     }
    ]
   },
+* parseLangLinks('en', './data/resultFromEN.json', './data/enwiki-latest-page.sql')
 */
 async function parseLangLinks(lang, pathToWrite, pathToRead) {
     const readable = fs.createReadStream(pathToRead, { encoding: 'utf8' });
@@ -111,4 +110,10 @@ async function parseLangLinks(lang, pathToWrite, pathToRead) {
     file.end(); 
 }
 
-parseLangLinks('en', './data/resultFromEN.json', './data/enwiki-latest-page.sql')
+
+// Edit titles
+
+//Wikipedia:Dog -> Dog
+async function removeCategory(title) {
+    return title.split(':').length === 1 ? title.split(':')[0] : title.split(':')[1] 
+}

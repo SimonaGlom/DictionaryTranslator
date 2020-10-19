@@ -11,7 +11,7 @@ client.indices.delete({
 })
 
 /**
- * standard - Unicode Text Segmentation algorithm
+ * standard - Unicode Text Segmentation algorithm -> The [ The, 2, QUICK, Brown, Foxes, jumped, over, the, lazy, dog's, bone ]
  * filter - lowercase
  */
 client.indices.create({
