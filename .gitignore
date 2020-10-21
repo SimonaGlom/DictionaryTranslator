@@ -4,3 +4,4 @@ data/enwiki-latest-page.sql
 data/skwiki-latest-page.sql
 
 /node_modules/
+/data/dataDEfromENlinks.json
