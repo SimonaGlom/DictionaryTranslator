@@ -1,33 +1,21 @@
 import React, { useState } from 'react';
-import logo from './logo.svg';
-import './App.css';
 import axios from 'axios'
 
 function App() {
-  const [input, setInput] = useState('')
-  const client = new elasticsearch.Client({
-    hosts: ['http://localhost:9200']
-  }); 
-
+  const [input, setInput] = useState('american')
+ 
   const handleReq = async () => {
     setInput()
 
-    try {
-      const response = await client.search({
-        index: 'dictionary',
-        type: '_doc',
-        body: {
-          query: {
-            match: {
-              value: "american"
-            } 
-          }
-        }
+    axios.get('http://localhost:8000/search', {
+      value: input
+    })
+      .then(function (response) {
+        console.log(response);
+      })
+      .catch(function (error) {
+        console.log(error);
       });
-      console.log(response)
-    } catch (error) {
-      console.trace(error.message)
-    }
   }
 
   return (
