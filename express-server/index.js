@@ -9,24 +9,38 @@ const client = new elasticsearch.Client({
 const port = 8000
 app.use(cors())
 
+const languages = ['en', 'sk', 'de']
+
 app.get('/search', async (req, res) => {
     const response = await client.search({
-        index: 'dictionary',
+        index: 'dictionary_' + req.query.lang,
         type: '_doc',
         body: {
             query: {
                 match: {
-                    value: req.query.value
+                    value: req.query.query
                 }
             }
         }
     });
+  
+    const transObj = {}
+    languages.forEach((lang) => {
+        if(lang !== req.query.lang) {
+            transObj[lang] = []
+        }
+    })
 
-    res.send(response.hits)
-    for (const tweet of response.hits.hits) {
-        console.log('tweet:', tweet);
+    console.log(response.hits.hits)
+    if(response.hits.total) {
+        response.hits.hits.forEach(document => {
+            document._source.translations.forEach((translation) => {
+                transObj[translation.lang].push(translation.value)
+            })     
+        });
     }
 
+    res.send(transObj)
 })
 
 app.listen(port, () => {
