@@ -1,5 +1,6 @@
 
 var elasticsearch = require('elasticsearch');
+var INDEX_NAME = 'dictionary_de_2' 
 
 var client = new elasticsearch.Client({
     hosts: ['http://localhost:9200'],
@@ -7,7 +8,7 @@ var client = new elasticsearch.Client({
 });
 
 client.indices.delete({
-    index: "dictionary"
+    index: INDEX_NAME
 })
 
 /**
@@ -15,7 +16,7 @@ client.indices.delete({
  * filter - lowercase
  */
 client.indices.create({
-    index: "dictionary",
+    index: INDEX_NAME,
     body: {
         "settings": {
             "analysis": {
@@ -24,7 +25,8 @@ client.indices.create({
                         "type": "custom",
                         "tokenizer": "standard",
                         "filter": [
-                            "lowercase"
+                            "lowercase",
+                            "asciifolding"
                         ]
                     }
                 }
@@ -35,7 +37,7 @@ client.indices.create({
                 "properties": {
                     "id": { "type": "text" },
                     "lang": { "type": "text" },
-                    "value": { "type": "text" },
+                    "value": { "type": "text", "analyzer": "my_custom_analyzer", },
                     "translations": {
                         "type": "nested", "properties": {
                             "id": { "type": "text" },
