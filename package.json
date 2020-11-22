@@ -4,8 +4,11 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "bluebird": "^3.7.2",
+    "cli-progress": "^3.8.2",
     "elasticsearch": "^16.7.1",
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "split2": "^3.2.2"
   },
   "devDependencies": {},
   "scripts": {
