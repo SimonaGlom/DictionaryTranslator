@@ -15,8 +15,10 @@ Následne pomocou príkazu spustiť jednotlivé skripty podľa potreby:
 
 $ node <názov_súboru>
 
-Poradie spúŠťania, aby sme sa dostali od sql súborou až po dáta v elasticsearch.
+Poradie spúšťania, aby sme sa dostali od sql súborou až po dáta v elasticsearch.
+
 1-step.js | 2-step.js | 2a-merge.js | 2b-elasticsSetUp.js | 3-step.js 
+
 Je nutnosť mať zdroje dát v ./data/enwiki-latest-langlinks.sql a  ./data/enwiki-latest-page.sql.
 
 #### Spustenie klienta
