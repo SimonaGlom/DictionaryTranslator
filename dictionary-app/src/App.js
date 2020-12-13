@@ -7,43 +7,57 @@ function App() {
   const [translations, setTranslations] = useState({});
   const [searchLanguage, setSearchLanguage] = useState('en')
   const [isSearch, setIsSearch] = useState(false)
+  const [complete, setComplete] = useState([]);
  
-  const handleReq = async () => {
-    axios.get('http://localhost:8000/search?query=' + input + '&lang=' + searchLanguage)
+  //odoslanie requestu po stlačení tlačidla hľadať
+  const handleReq = async (item) => {
+    axios.get('http://localhost:8000/search?query=' + item + '&lang=' + searchLanguage)
       .then(function (response) {
         setTranslations(response.data)
+        setComplete([])
         setIsSearch(true)
       })
       .catch(function (error) {
         console.log(error);
-      });
+      });  
+  }
 
-    axios.get('http://localhost:8000/search?query=' + input + '&lang=' + searchLanguage)
+  //odoslanie requestu po písaní do inputu -> nápoveda
+  const handleOnChange = async (e) => {
+    setInput(e.target.value); 
+    setIsSearch(false);
+    setTranslations([])
+    axios.get('http://localhost:8000/autocomplete?query=' + input + '&lang=' + searchLanguage)
       .then(function (response) {
-        setTranslations(response.data)
+
+        setComplete([...new Set(response.data)])
       })
       .catch(function (error) {
         console.log(error);
-      });
+      }); 
   }
 
+  // na zobrazenie dvoch zvyšných nevybratých jazykov
   const getUnchosenLanguages = () => {
     const langs = ['sk', 'en', 'de']
 
     return langs.filter((lan) => lan !== searchLanguage)
   }
 
+  // na zobrazenie prekladov k jazyku, pri ktorm sa majú zobraziť
   const getTranslation = (lang) => {
-    console.log(translations[lang])
-    return translations[lang] || []
+    return [...new Set(translations[lang])] || []
   }
 
+  // zmena jazyka , v ktorom zadávam slovo
   const handleCheckboxes = (val) => {
     setSearchLanguage(val)
-    setTranslations({})
+    setTranslations([])
+    setComplete([])
     setInput('')
     setIsSearch(false)
   }
+
   return (
     <div className="app">
         <h1>EN-SK-DE Dictionary</h1>
@@ -53,9 +67,18 @@ function App() {
           <button className={(searchLanguage === 'de' ? "choose-language chosen-language" : "choose-language")} onClick={() => handleCheckboxes('de')}>DE</button>
         </div>
         <div>
-        <input name="search" placeholder="hľadaný výraz" value={input} onChange={(e) => { setInput(e.target.value); setIsSearch(false) }}/>
+        <input name="search" placeholder="hľadaný výraz" value={input} onChange={(e) => { handleOnChange(e) }}/>
         </div>
-        <button onClick={() => handleReq()} onEnter={() => handleReq()}>HĽADAŤ</button>
+        <button onClick={() => handleReq(input)}>HĽADAŤ</button>
+        <div className="autocomplete">
+          {complete.length ? 
+            <>
+              <h4>Mali ste na mysli?</h4>
+              {complete.map((item) => {
+                return <button className="button-autocomplete" onClick={() => { setInput(item); setComplete([]); handleReq(item) }}>{item}</button>
+              })}
+            </> : <></>}
+        </div>
         <div className="translations">
           <div>            
           {getUnchosenLanguages().map((item, index) => {
