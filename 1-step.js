@@ -67,7 +67,7 @@ async function parseIntoSeparateFiles(lang, pathToWrite, pathToRead) {
 
 // data with comments de, sk from en
 parseIntoSeparateFiles('de', './data/1-step-with-comments/dataDEfromENlinks.json', './data/enwiki-latest-langlinks.sql');
-//parseIntoSeparateFiles('sk', './data/1-step-with-comments/dataSKfromENlinks.json', './data/enwiki-latest-langlinks.sql');
+parseIntoSeparateFiles('sk', './data/1-step-with-comments/dataSKfromENlinks.json', './data/enwiki-latest-langlinks.sql');
 
 //data en, sk from de
 //parseIntoSeparateFiles('sk', './data/1-step-with-comments/dataSKfromDElinks.json', './data/dewiki-latest-langlinks.sql');

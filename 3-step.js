@@ -50,7 +50,7 @@ fs.readdirAsync('./data/3-step/with-comments/').then(async function (directories
         bar1.increment();
     }
      
-}).then(() => bar1.stop(;)
+}).then(() => bar1.stop)
 
 
 module.exports = client;

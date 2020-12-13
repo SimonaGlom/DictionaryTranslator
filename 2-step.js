@@ -1,10 +1,5 @@
-const dataENFromSK = require('./data/1-step-with-comments/dataENfromSKlinks.json')
-const dataDEFromSK = require('./data/1-step-with-comments/dataDEfromSKlinks.json')
-
-/*const dataENFromSK = require('./data/1-step-with-comments/dataSKfromDElinks.json')
-const dataDEFromSK = require('./data/1-step-with-comments/dataENfromDElinks.json') * /
 const dataENFromSK = require('./data/1-step-with-comments/dataSKfromENlinks.json')
-const dataDEFromSK = require('./data/1-step-with-comments/dataDEfromENlinks.json')*/
+const dataDEFromSK = require('./data/1-step-with-comments/dataDEfromENlinks.json')
 
 const fs = require('fs')
 const split2 = require('split2')
@@ -90,6 +85,6 @@ async function parseLangLinks(lang, pathToWrite, pathToRead) {
         });
 }
 
-parseLangLinks('sk', './data/2-step-with-comments/SK/result', './data/skwiki-latest-page.sql')
+//parseLangLinks('sk', './data/2-step-with-comments/SK/result', './data/skwiki-latest-page.sql')
 //parseLangLinks('de', './data/2-step-with-comments/DE/result', './data/dewiki-latest-page.sql')
-//parseLangLinks('en', './data/2-step-with-comments/EN/result', './data/enwiki-latest-page.sql')
+parseLangLinks('en', './data/2-step-with-comments/EN/result', './data/enwiki-latest-page.sql')
