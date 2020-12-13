@@ -15,5 +15,10 @@ function removeUnderline(title) {
     return (title.split("'")[1]) ? title.split("'")[1].split("_").join(' ') : title
 }
 
+//Small-dog => Small dog
+function removeConnector(title) {
+    return (title.split("'")[1]) ? title.split("'")[1].split("-").join(' ') : title
+}
 
-module.exports = { removeCategory, removeDescription, removeUnderline}
+
+module.exports = { removeCategory, removeDescription, removeUnderline, removeConnector}
